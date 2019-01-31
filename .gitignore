@@ -1,0 +1,9 @@
+old/
+cookies.json
+log/
+*.err
+.vscode/
+*.out
+.envrc
+config.cfg
+gen.py
