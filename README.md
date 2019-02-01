@@ -1,5 +1,5 @@
 # Leetcode Solutions with Golang
-Last updated:  2019-01-31 19:39:14
+Last updated:  2019-02-01 20:20:31
 
 I have solved **9** out of **932** problems. If you have any suggestions, feedback is appreciated.
 
@@ -128,7 +128,7 @@ I have solved **9** out of **932** problems. If you have any suggestions, feedba
 |121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock/)|Easy|
 |122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-ii/)|Easy|
 |123|[best-time-to-buy-and-sell-stock-iii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)|||Hard|
-|124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|||Hard|
+|124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)||[:memo:](https://leetcode.com/articles/binary-tree-maximum-path-sum/)|Hard|
 |125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome)|||Easy|
 |126|[word-ladder-ii](https://leetcode.com/problems/word-ladder-ii)|||Hard|
 |127|[word-ladder](https://leetcode.com/problems/word-ladder)|||Medium|
