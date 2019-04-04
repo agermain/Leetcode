@@ -31,6 +31,8 @@
 // 	1 <= emails[i].length <= 100
 // 	1 <= emails.length <= 100
 // 	Each emails[i] contains exactly one '@' character.
+// 	All local and domain names are non-empty.
+// 	Local names do not start with a '+' character.
 //
 //
 //
