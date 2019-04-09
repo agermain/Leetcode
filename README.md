@@ -1,7 +1,7 @@
 # Leetcode Solutions with Golang,Java
-Last updated:  2019-04-07 00:23:20
+Last updated:  2019-04-09 17:23:45
 
-I have solved **24** out of **969** problems. If you have any suggestions, feedback is appreciated.
+I have solved **27** out of **973** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -79,7 +79,7 @@ I have solved **24** out of **969** problems. If you have any suggestions, feedb
 |72|[edit-distance](https://leetcode.com/problems/edit-distance)||[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
 |73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)||[:memo:](https://leetcode.com/articles/set-matrix-zeroes/)|Medium|
 |74|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)|||Medium|
-|75|[sort-colors](https://leetcode.com/problems/sort-colors)|[Golang](https://github.com/apg258/Leetcode/blob/master/solutions/075-sort-colors/sort-colors.go)||Medium|
+|75|[sort-colors](https://leetcode.com/problems/sort-colors)|[Golang](https://github.com/apg258/Leetcode/blob/master/solutions/075-sort-colors/sort-colors.go)|[:memo:](https://leetcode.com/articles/sort-colors/)|Medium|
 |76|[minimum-window-substring](https://leetcode.com/problems/minimum-window-substring)||[:memo:](https://leetcode.com/articles/minimum-window-substring/)|Hard|
 |77|[combinations](https://leetcode.com/problems/combinations)||[:memo:](https://leetcode.com/articles/combinations/)|Medium|
 |78|[subsets](https://leetcode.com/problems/subsets)|||Medium|
@@ -98,7 +98,7 @@ I have solved **24** out of **969** problems. If you have any suggestions, feedb
 |91|[decode-ways](https://leetcode.com/problems/decode-ways)|||Medium|
 |92|[reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)||[:memo:](https://leetcode.com/articles/reverse-linked-list-ii/)|Medium|
 |93|[restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses)||[:memo:](https://leetcode.com/articles/restore-ip-addresses/)|Medium|
-|94|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-inorder-traversal/)|Medium|
+|94|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/094-binary-tree-inorder-traversal/binary-tree-inorder-traversal.java)|[:memo:](https://leetcode.com/articles/binary-tree-inorder-traversal/)|Medium|
 |95|[unique-binary-search-trees-ii](https://leetcode.com/problems/unique-binary-search-trees-ii)||[:memo:](https://leetcode.com/articles/unique-binary-search-trees-ii/)|Medium|
 |96|[unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees)||[:memo:](https://leetcode.com/articles/unique-binary-search-trees/)|Medium|
 |97|[interleaving-string](https://leetcode.com/problems/interleaving-string)||[:memo:](https://leetcode.com/articles/interleaving-strings/)|Hard|
@@ -148,8 +148,8 @@ I have solved **24** out of **969** problems. If you have any suggestions, feedb
 |141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)||[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
 |142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)||[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
 |143|[reorder-list](https://leetcode.com/problems/reorder-list)|||Medium|
-|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-transversal/)|Medium|
-|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-transversal/)|Hard|
+|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/144-binary-tree-preorder-traversal/binary-tree-preorder-traversal.java)|[:memo:](https://leetcode.com/articles/binary-tree-preorder-transversal/)|Medium|
+|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/145-binary-tree-postorder-traversal/binary-tree-postorder-traversal.java)|[:memo:](https://leetcode.com/articles/binary-tree-postorder-transversal/)|Hard|
 |146|[lru-cache](https://leetcode.com/problems/lru-cache)||[:memo:](https://leetcode.com/articles/lru-cache/)|Hard|
 |147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|||Medium|
 |148|[sort-list](https://leetcode.com/problems/sort-list)|||Medium|
@@ -974,3 +974,7 @@ I have solved **24** out of **969** problems. If you have any suggestions, feedb
 |1071|[binary-prefix-divisible-by-5](https://leetcode.com/problems/binary-prefix-divisible-by-5)|||Easy|
 |1072|[next-greater-node-in-linked-list](https://leetcode.com/problems/next-greater-node-in-linked-list)|||Medium|
 |1073|[number-of-enclaves](https://leetcode.com/problems/number-of-enclaves)|||Medium|
+|1078|[remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|||Easy|
+|1079|[sum-of-root-to-leaf-binary-numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)|||Easy|
+|1080|[camelcase-matching](https://leetcode.com/problems/camelcase-matching)|||Medium|
+|1081|[video-stitching](https://leetcode.com/problems/video-stitching)|||Medium|
