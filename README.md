@@ -1,7 +1,7 @@
 # Leetcode Solutions with Golang,Java
-Last updated:  2019-04-12 20:15:44
+Last updated:  2019-04-13 16:02:07
 
-I have solved **37** out of **973** problems. If you have any suggestions, feedback is appreciated.
+I have solved **43** out of **973** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -17,7 +17,7 @@ I have solved **37** out of **973** problems. If you have any suggestions, feedb
 |10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)||[:memo:](https://leetcode.com/articles/regular-expression-matching/)|Hard|
 |11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)||[:memo:](https://leetcode.com/articles/container-with-most-water/)|Medium|
 |12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|||Medium|
-|13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|||Easy|
+|13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/013-roman-to-integer/roman-to-integer.java)||Easy|
 |14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)||[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
 |15|[3sum](https://leetcode.com/problems/3sum)|||Medium|
 |16|[3sum-closest](https://leetcode.com/problems/3sum-closest)|||Medium|
@@ -173,7 +173,7 @@ I have solved **37** out of **973** problems. If you have any suggestions, feedb
 |166|[fraction-to-recurring-decimal](https://leetcode.com/problems/fraction-to-recurring-decimal)||[:memo:](https://leetcode.com/articles/fraction-to-recurring-decimal/)|Medium|
 |167|[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)||[:memo:](https://leetcode.com/articles/two-sum-ii-input-array-is-sorted/)|Easy|
 |168|[excel-sheet-column-title](https://leetcode.com/problems/excel-sheet-column-title)|||Easy|
-|169|[majority-element](https://leetcode.com/problems/majority-element)||[:memo:](https://leetcode.com/articles/majority-element/)|Easy|
+|169|[majority-element](https://leetcode.com/problems/majority-element)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/169-majority-element/majority-element.java)|[:memo:](https://leetcode.com/articles/majority-element/)|Easy|
 |170|[two-sum-iii-data-structure-design](https://leetcode.com/problems/two-sum-iii-data-structure-design)|:lock:||Easy|
 |171|[excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number)|||Easy|
 |172|[factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|||Easy|
@@ -370,7 +370,7 @@ I have solved **37** out of **973** problems. If you have any suggestions, feedb
 |380|[insert-delete-getrandom-o1](https://leetcode.com/problems/insert-delete-getrandom-o1)|||Medium|
 |381|[insert-delete-getrandom-o1-duplicates-allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed)|||Hard|
 |382|[linked-list-random-node](https://leetcode.com/problems/linked-list-random-node)|||Medium|
-|383|[ransom-note](https://leetcode.com/problems/ransom-note)|||Easy|
+|383|[ransom-note](https://leetcode.com/problems/ransom-note)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/383-ransom-note/ransom-note.java)||Easy|
 |384|[shuffle-an-array](https://leetcode.com/problems/shuffle-an-array)||[:memo:](https://leetcode.com/articles/shuffle-an-array/)|Medium|
 |385|[mini-parser](https://leetcode.com/problems/mini-parser)|||Medium|
 |386|[lexicographical-numbers](https://leetcode.com/problems/lexicographical-numbers)|||Medium|
@@ -391,7 +391,7 @@ I have solved **37** out of **973** problems. If you have any suggestions, feedb
 |401|[binary-watch](https://leetcode.com/problems/binary-watch)|||Easy|
 |402|[remove-k-digits](https://leetcode.com/problems/remove-k-digits)|||Medium|
 |403|[frog-jump](https://leetcode.com/problems/frog-jump)||[:memo:](https://leetcode.com/articles/frog-jump/)|Hard|
-|404|[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves)|||Easy|
+|404|[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/404-sum-of-left-leaves/sum-of-left-leaves.java)||Easy|
 |405|[convert-a-number-to-hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)|||Easy|
 |406|[queue-reconstruction-by-height](https://leetcode.com/problems/queue-reconstruction-by-height)|||Medium|
 |407|[trapping-rain-water-ii](https://leetcode.com/problems/trapping-rain-water-ii)|||Hard|
@@ -708,7 +708,7 @@ I have solved **37** out of **973** problems. If you have any suggestions, feedb
 |781|[basic-calculator-iv](https://leetcode.com/problems/basic-calculator-iv)||[:memo:](https://leetcode.com/articles/basic-calculator-iv/)|Hard|
 |782|[jewels-and-stones](https://leetcode.com/problems/jewels-and-stones)|[Golang](https://github.com/apg258/Leetcode/blob/master/solutions/782-jewels-and-stones/jewels-and-stones.go)|[:memo:](https://leetcode.com/articles/jewels-and-stones/)|Easy|
 |783|[search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|||Easy|
-|784|[insert-into-a-binary-search-tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)|||Medium|
+|784|[insert-into-a-binary-search-tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/784-insert-into-a-binary-search-tree/insert-into-a-binary-search-tree.java)||Medium|
 |785|[basic-calculator-iii](https://leetcode.com/problems/basic-calculator-iii)|:lock:||Hard|
 |786|[search-in-a-sorted-array-of-unknown-size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size)|:lock:||Medium|
 |787|[sliding-puzzle](https://leetcode.com/problems/sliding-puzzle)||[:memo:](https://leetcode.com/articles/sliding-puzzle/)|Hard|
@@ -890,7 +890,7 @@ I have solved **37** out of **973** problems. If you have any suggestions, feedb
 |972|[knight-dialer](https://leetcode.com/problems/knight-dialer)||[:memo:](https://leetcode.com/articles/knight-dialer/)|Medium|
 |973|[stamping-the-sequence](https://leetcode.com/problems/stamping-the-sequence)||[:memo:](https://leetcode.com/articles/stamping-the-sequence/)|Hard|
 |974|[reorder-log-files](https://leetcode.com/problems/reorder-log-files)||[:memo:](https://leetcode.com/articles/reorder-log-files/)|Easy|
-|975|[range-sum-of-bst](https://leetcode.com/problems/range-sum-of-bst)||[:memo:](https://leetcode.com/articles/range-sum-of-bst/)|Medium|
+|975|[range-sum-of-bst](https://leetcode.com/problems/range-sum-of-bst)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/975-range-sum-of-bst/range-sum-of-bst.java)|[:memo:](https://leetcode.com/articles/range-sum-of-bst/)|Medium|
 |976|[minimum-area-rectangle](https://leetcode.com/problems/minimum-area-rectangle)||[:memo:](https://leetcode.com/articles/minimum-area-rectangle/)|Medium|
 |977|[distinct-subsequences-ii](https://leetcode.com/problems/distinct-subsequences-ii)||[:memo:](https://leetcode.com/articles/distinct-subsequences-ii/)|Hard|
 |978|[valid-mountain-array](https://leetcode.com/problems/valid-mountain-array)||[:memo:](https://leetcode.com/articles/valid-mountain-array/)|Easy|
