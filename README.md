@@ -1,7 +1,7 @@
 # Leetcode Solutions with Golang,Java
-Last updated:  2019-04-13 16:02:07
+Last updated:  2019-04-15 10:57:45
 
-I have solved **43** out of **973** problems. If you have any suggestions, feedback is appreciated.
+I have solved **46** out of **977** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -78,7 +78,7 @@ I have solved **43** out of **973** problems. If you have any suggestions, feedb
 |71|[simplify-path](https://leetcode.com/problems/simplify-path)|||Medium|
 |72|[edit-distance](https://leetcode.com/problems/edit-distance)||[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
 |73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)||[:memo:](https://leetcode.com/articles/set-matrix-zeroes/)|Medium|
-|74|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)|||Medium|
+|74|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)||[:memo:](https://leetcode.com/articles/search-in-2d-matrix/)|Medium|
 |75|[sort-colors](https://leetcode.com/problems/sort-colors)|[Golang](https://github.com/apg258/Leetcode/blob/master/solutions/075-sort-colors/sort-colors.go)|[:memo:](https://leetcode.com/articles/sort-colors/)|Medium|
 |76|[minimum-window-substring](https://leetcode.com/problems/minimum-window-substring)||[:memo:](https://leetcode.com/articles/minimum-window-substring/)|Hard|
 |77|[combinations](https://leetcode.com/problems/combinations)||[:memo:](https://leetcode.com/articles/combinations/)|Medium|
@@ -207,7 +207,7 @@ I have solved **43** out of **973** problems. If you have any suggestions, feedb
 |216|[combination-sum-iii](https://leetcode.com/problems/combination-sum-iii)|||Medium|
 |217|[contains-duplicate](https://leetcode.com/problems/contains-duplicate)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/217-contains-duplicate/contains-duplicate.java)|[:memo:](https://leetcode.com/articles/contains-duplicate/)|Easy|
 |218|[the-skyline-problem](https://leetcode.com/problems/the-skyline-problem)||[:memo:](https://leetcode.com/articles/skyline-problem/)|Hard|
-|219|[contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii)||[:memo:](https://leetcode.com/articles/contains-duplicate-ii/)|Easy|
+|219|[contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/219-contains-duplicate-ii/contains-duplicate-ii.java)|[:memo:](https://leetcode.com/articles/contains-duplicate-ii/)|Easy|
 |220|[contains-duplicate-iii](https://leetcode.com/problems/contains-duplicate-iii)||[:memo:](https://leetcode.com/articles/contains-duplicate-iii/)|Medium|
 |221|[maximal-square](https://leetcode.com/problems/maximal-square)||[:memo:](https://leetcode.com/articles/maximal-square/)|Medium|
 |222|[count-complete-tree-nodes](https://leetcode.com/problems/count-complete-tree-nodes)|||Medium|
@@ -401,7 +401,7 @@ I have solved **43** out of **973** problems. If you have any suggestions, feedb
 |411|[minimum-unique-word-abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation)|:lock:||Hard|
 |412|[fizz-buzz](https://leetcode.com/problems/fizz-buzz)||[:memo:](https://leetcode.com/articles/fizz-buzz/)|Easy|
 |413|[arithmetic-slices](https://leetcode.com/problems/arithmetic-slices)||[:memo:](https://leetcode.com/articles/arithmetic-slices/)|Medium|
-|414|[third-maximum-number](https://leetcode.com/problems/third-maximum-number)|||Easy|
+|414|[third-maximum-number](https://leetcode.com/problems/third-maximum-number)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/414-third-maximum-number/third-maximum-number.java)||Easy|
 |415|[add-strings](https://leetcode.com/problems/add-strings)|||Easy|
 |416|[partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum)|||Medium|
 |417|[pacific-atlantic-water-flow](https://leetcode.com/problems/pacific-atlantic-water-flow)|||Medium|
@@ -961,7 +961,7 @@ I have solved **43** out of **973** problems. If you have any suggestions, feedb
 |1047|[maximize-sum-of-array-after-k-negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations)|||Easy|
 |1048|[clumsy-factorial](https://leetcode.com/problems/clumsy-factorial)|||Medium|
 |1049|[minimum-domino-rotations-for-equal-row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)|||Medium|
-|1050|[construct-binary-search-tree-from-preorder-traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)|||Medium|
+|1050|[construct-binary-search-tree-from-preorder-traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/1050-construct-binary-search-tree-from-preorder-traversal/construct-binary-search-tree-from-preorder-traversal.java)||Medium|
 |1054|[complement-of-base-10-integer](https://leetcode.com/problems/complement-of-base-10-integer)|||Easy|
 |1055|[pairs-of-songs-with-total-durations-divisible-by-60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)|||Easy|
 |1056|[capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|||Medium|
@@ -978,3 +978,7 @@ I have solved **43** out of **973** problems. If you have any suggestions, feedb
 |1079|[sum-of-root-to-leaf-binary-numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)|||Easy|
 |1080|[camelcase-matching](https://leetcode.com/problems/camelcase-matching)|||Medium|
 |1081|[video-stitching](https://leetcode.com/problems/video-stitching)|||Medium|
+|1086|[divisor-game](https://leetcode.com/problems/divisor-game)|||Easy|
+|1087|[longest-arithmetic-sequence](https://leetcode.com/problems/longest-arithmetic-sequence)|||Medium|
+|1092|[maximum-difference-between-node-and-ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)|||Medium|
+|1093|[recover-a-tree-from-preorder-traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)|||Hard|
