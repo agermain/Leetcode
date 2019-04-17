@@ -1,7 +1,7 @@
 # Leetcode Solutions with Golang,Java
-Last updated:  2019-04-16 21:54:35
+Last updated:  2019-04-17 15:09:20
 
-I have solved **47** out of **978** problems. If you have any suggestions, feedback is appreciated.
+I have solved **51** out of **978** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -57,7 +57,7 @@ I have solved **47** out of **978** problems. If you have any suggestions, feedb
 |50|[powx-n](https://leetcode.com/problems/powx-n)||[:memo:](https://leetcode.com/articles/powx-n/)|Medium|
 |51|[n-queens](https://leetcode.com/problems/n-queens)||[:memo:](https://leetcode.com/articles/n-queens/)|Hard|
 |52|[n-queens-ii](https://leetcode.com/problems/n-queens-ii)||[:memo:](https://leetcode.com/articles/n-queens-ii/)|Hard|
-|53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray)|||Easy|
+|53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/053-maximum-subarray/maximum-subarray.java)||Easy|
 |54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix)||[:memo:](https://leetcode.com/articles/spiral-matrix/)|Medium|
 |55|[jump-game](https://leetcode.com/problems/jump-game)||[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
 |56|[merge-intervals](https://leetcode.com/problems/merge-intervals)||[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
@@ -73,7 +73,7 @@ I have solved **47** out of **978** problems. If you have any suggestions, feedb
 |66|[plus-one](https://leetcode.com/problems/plus-one)|||Easy|
 |67|[add-binary](https://leetcode.com/problems/add-binary)|||Easy|
 |68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
-|69|[sqrtx](https://leetcode.com/problems/sqrtx)|||Easy|
+|69|[sqrtx](https://leetcode.com/problems/sqrtx)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/069-sqrtx/sqrtx.java)||Easy|
 |70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)||[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
 |71|[simplify-path](https://leetcode.com/problems/simplify-path)|||Medium|
 |72|[edit-distance](https://leetcode.com/problems/edit-distance)||[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
@@ -125,7 +125,7 @@ I have solved **47** out of **978** problems. If you have any suggestions, feedb
 |118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)||[:memo:](https://leetcode.com/articles/pascals-triangle/)|Easy|
 |119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)|||Easy|
 |120|[triangle](https://leetcode.com/problems/triangle)|||Medium|
-|121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock/)|Easy|
+|121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.java)|[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock/)|Easy|
 |122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-ii/)|Easy|
 |123|[best-time-to-buy-and-sell-stock-iii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)|||Hard|
 |124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)||[:memo:](https://leetcode.com/articles/binary-tree-maximum-path-sum/)|Hard|
@@ -502,7 +502,7 @@ I have solved **47** out of **978** problems. If you have any suggestions, feedb
 |526|[beautiful-arrangement](https://leetcode.com/problems/beautiful-arrangement)||[:memo:](https://leetcode.com/articles/beautiful-arrangement/)|Medium|
 |527|[word-abbreviation](https://leetcode.com/problems/word-abbreviation)|:lock:|[:memo:](https://leetcode.com/articles/word-abbreviation/)|Hard|
 |529|[minesweeper](https://leetcode.com/problems/minesweeper)|||Medium|
-|530|[minimum-absolute-difference-in-bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst)|||Easy|
+|530|[minimum-absolute-difference-in-bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/530-minimum-absolute-difference-in-bst/minimum-absolute-difference-in-bst.java)||Easy|
 |531|[lonely-pixel-i](https://leetcode.com/problems/lonely-pixel-i)|:lock:||Medium|
 |532|[k-diff-pairs-in-an-array](https://leetcode.com/problems/k-diff-pairs-in-an-array)|||Easy|
 |533|[lonely-pixel-ii](https://leetcode.com/problems/lonely-pixel-ii)|:lock:||Medium|
