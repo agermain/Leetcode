@@ -1,5 +1,5 @@
-# Leetcode Solutions with Golang,Java
-Last updated:  2019-04-20 23:50:40
+# Leetcode Solutions with Golang, Java, Python3
+Last updated:  2019-04-21 00:18:55
 
 I have solved **55** out of **978** problems. If you have any suggestions, feedback is appreciated.
 
@@ -73,7 +73,7 @@ I have solved **55** out of **978** problems. If you have any suggestions, feedb
 |66|[plus-one](https://leetcode.com/problems/plus-one)|||Easy|
 |67|[add-binary](https://leetcode.com/problems/add-binary)|||Easy|
 |68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
-|69|[sqrtx](https://leetcode.com/problems/sqrtx)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/069-sqrtx/sqrtx.java)||Easy|
+|69|[sqrtx](https://leetcode.com/problems/sqrtx)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/069-sqrtx/sqrtx.java) [Python3](https://github.com/apg258/Leetcode/blob/master/solutions/069-sqrtx/sqrtx.py)||Easy|
 |70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)||[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
 |71|[simplify-path](https://leetcode.com/problems/simplify-path)|||Medium|
 |72|[edit-distance](https://leetcode.com/problems/edit-distance)||[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
@@ -926,7 +926,7 @@ I have solved **55** out of **978** problems. If you have any suggestions, feedb
 |1010|[powerful-integers](https://leetcode.com/problems/powerful-integers)||[:memo:](https://leetcode.com/articles/powerful-integers/)|Easy|
 |1011|[flip-binary-tree-to-match-preorder-traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal)||[:memo:](https://leetcode.com/articles/flip-binary-tree-to-match-preorder-traversal/)|Medium|
 |1012|[equal-rational-numbers](https://leetcode.com/problems/equal-rational-numbers)||[:memo:](https://leetcode.com/articles/equal-rational-numbers/)|Hard|
-|1013|[fibonacci-number](https://leetcode.com/problems/fibonacci-number)|||Easy|
+|1013|[fibonacci-number](https://leetcode.com/problems/fibonacci-number)|[Python3](https://github.com/apg258/Leetcode/blob/master/solutions/1013-fibonacci-number/fibonacci-number.py)||Easy|
 |1014|[k-closest-points-to-origin](https://leetcode.com/problems/k-closest-points-to-origin)||[:memo:](https://leetcode.com/articles/k-closest-points-to-origin/)|Medium|
 |1016|[subarray-sums-divisible-by-k](https://leetcode.com/problems/subarray-sums-divisible-by-k)||[:memo:](https://leetcode.com/articles/subarray-sums-divisible-by-k/)|Medium|
 |1017|[odd-even-jump](https://leetcode.com/problems/odd-even-jump)||[:memo:](https://leetcode.com/articles/odd-even-jump/)|Hard|
