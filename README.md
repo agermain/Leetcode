@@ -1,7 +1,7 @@
 # Leetcode Solutions with Golang, Java, Python3
-Last updated:  2019-04-23 18:57:13
+Last updated:  2019-04-24 22:49:20
 
-I have solved **60** out of **982** problems. If you have any suggestions, feedback is appreciated.
+I have solved **62** out of **982** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -399,7 +399,7 @@ I have solved **60** out of **982** problems. If you have any suggestions, feedb
 |409|[longest-palindrome](https://leetcode.com/problems/longest-palindrome)||[:memo:](https://leetcode.com/articles/longest-palindrome/)|Easy|
 |410|[split-array-largest-sum](https://leetcode.com/problems/split-array-largest-sum)||[:memo:](https://leetcode.com/articles/split-array-largest-sum/)|Hard|
 |411|[minimum-unique-word-abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation)|:lock:||Hard|
-|412|[fizz-buzz](https://leetcode.com/problems/fizz-buzz)||[:memo:](https://leetcode.com/articles/fizz-buzz/)|Easy|
+|412|[fizz-buzz](https://leetcode.com/problems/fizz-buzz)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/412-fizz-buzz/fizz-buzz.java)|[:memo:](https://leetcode.com/articles/fizz-buzz/)|Easy|
 |413|[arithmetic-slices](https://leetcode.com/problems/arithmetic-slices)||[:memo:](https://leetcode.com/articles/arithmetic-slices/)|Medium|
 |414|[third-maximum-number](https://leetcode.com/problems/third-maximum-number)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/414-third-maximum-number/third-maximum-number.java)||Easy|
 |415|[add-strings](https://leetcode.com/problems/add-strings)|||Easy|
@@ -707,8 +707,8 @@ I have solved **60** out of **982** problems. If you have any suggestions, feedb
 |780|[max-chunks-to-make-sorted](https://leetcode.com/problems/max-chunks-to-make-sorted)||[:memo:](https://leetcode.com/articles/max-chunks-to-make-sorted-i/)|Medium|
 |781|[basic-calculator-iv](https://leetcode.com/problems/basic-calculator-iv)||[:memo:](https://leetcode.com/articles/basic-calculator-iv/)|Hard|
 |782|[jewels-and-stones](https://leetcode.com/problems/jewels-and-stones)|[Golang](https://github.com/apg258/Leetcode/blob/master/solutions/782-jewels-and-stones/jewels-and-stones.go)|[:memo:](https://leetcode.com/articles/jewels-and-stones/)|Easy|
-|783|[search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|||Easy|
-|784|[insert-into-a-binary-search-tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/784-insert-into-a-binary-search-tree/insert-into-a-binary-search-tree.java)||Medium|
+|783|[search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/783-search-in-a-binary-search-tree/search-in-a-binary-search-tree.java)||Easy|
+|784|[insert-into-a-binary-search-tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/784-insert-into-a-binary-search-tree/insert-into-a-binary-search-tree.java)|[:memo:](https://leetcode.com/articles/insert-into-a-bst/)|Medium|
 |785|[basic-calculator-iii](https://leetcode.com/problems/basic-calculator-iii)|:lock:||Hard|
 |786|[search-in-a-sorted-array-of-unknown-size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size)|:lock:||Medium|
 |787|[sliding-puzzle](https://leetcode.com/problems/sliding-puzzle)||[:memo:](https://leetcode.com/articles/sliding-puzzle/)|Hard|
