@@ -1,7 +1,7 @@
 # Leetcode Solutions with Golang, Java, Python3
-Last updated:  2019-04-24 22:49:20
+Last updated:  2019-04-25 23:39:27
 
-I have solved **62** out of **982** problems. If you have any suggestions, feedback is appreciated.
+I have solved **63** out of **982** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -975,7 +975,7 @@ I have solved **62** out of **982** problems. If you have any suggestions, feedb
 |1071|[binary-prefix-divisible-by-5](https://leetcode.com/problems/binary-prefix-divisible-by-5)|||Easy|
 |1072|[next-greater-node-in-linked-list](https://leetcode.com/problems/next-greater-node-in-linked-list)|||Medium|
 |1073|[number-of-enclaves](https://leetcode.com/problems/number-of-enclaves)|||Medium|
-|1078|[remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|||Easy|
+|1078|[remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/1078-remove-outermost-parentheses/remove-outermost-parentheses.java)||Easy|
 |1079|[sum-of-root-to-leaf-binary-numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)|||Easy|
 |1080|[camelcase-matching](https://leetcode.com/problems/camelcase-matching)|||Medium|
 |1081|[video-stitching](https://leetcode.com/problems/video-stitching)|||Medium|
