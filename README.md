@@ -1,7 +1,7 @@
 # Leetcode Solutions with Golang, Java, Python3
-Last updated:  2019-04-26 15:09:34
+Last updated:  2019-05-21 12:35:03
 
-I have solved **64** out of **982** problems. If you have any suggestions, feedback is appreciated.
+I have solved **65** out of **998** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -48,7 +48,7 @@ I have solved **64** out of **982** problems. If you have any suggestions, feedb
 |41|[first-missing-positive](https://leetcode.com/problems/first-missing-positive)||[:memo:](https://leetcode.com/articles/first-missing-positive/)|Hard|
 |42|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water)||[:memo:](https://leetcode.com/articles/trapping-rain-water/)|Hard|
 |43|[multiply-strings](https://leetcode.com/problems/multiply-strings)|||Medium|
-|44|[wildcard-matching](https://leetcode.com/problems/wildcard-matching)|||Hard|
+|44|[wildcard-matching](https://leetcode.com/problems/wildcard-matching)||[:memo:](https://leetcode.com/articles/wildcard-matching/)|Hard|
 |45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)|||Hard|
 |46|[permutations](https://leetcode.com/problems/permutations)||[:memo:](https://leetcode.com/articles/permutations/)|Medium|
 |47|[permutations-ii](https://leetcode.com/problems/permutations-ii)|||Medium|
@@ -61,7 +61,7 @@ I have solved **64** out of **982** problems. If you have any suggestions, feedb
 |54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix)||[:memo:](https://leetcode.com/articles/spiral-matrix/)|Medium|
 |55|[jump-game](https://leetcode.com/problems/jump-game)||[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
 |56|[merge-intervals](https://leetcode.com/problems/merge-intervals)||[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
-|57|[insert-interval](https://leetcode.com/problems/insert-interval)|||Hard|
+|57|[insert-interval](https://leetcode.com/problems/insert-interval)||[:memo:](https://leetcode.com/articles/insert-interval/)|Hard|
 |58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|||Easy|
 |59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|||Medium|
 |60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|||Medium|
@@ -140,7 +140,7 @@ I have solved **64** out of **982** problems. If you have any suggestions, feedb
 |133|[clone-graph](https://leetcode.com/problems/clone-graph)|||Medium|
 |134|[gas-station](https://leetcode.com/problems/gas-station)||[:memo:](https://leetcode.com/articles/gas-station/)|Medium|
 |135|[candy](https://leetcode.com/problems/candy)||[:memo:](https://leetcode.com/articles/candy/)|Hard|
-|136|[single-number](https://leetcode.com/problems/single-number)||[:memo:](https://leetcode.com/articles/single-number/)|Easy|
+|136|[single-number](https://leetcode.com/problems/single-number)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/136-single-number/single-number.java)|[:memo:](https://leetcode.com/articles/single-number/)|Easy|
 |137|[single-number-ii](https://leetcode.com/problems/single-number-ii)|||Medium|
 |138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)||[:memo:](https://leetcode.com/articles/copy-list-with-random-pointer/)|Medium|
 |139|[word-break](https://leetcode.com/problems/word-break)||[:memo:](https://leetcode.com/articles/word-break/)|Medium|
@@ -218,7 +218,7 @@ I have solved **64** out of **982** problems. If you have any suggestions, feedb
 |227|[basic-calculator-ii](https://leetcode.com/problems/basic-calculator-ii)|||Medium|
 |228|[summary-ranges](https://leetcode.com/problems/summary-ranges)||[:memo:](https://leetcode.com/articles/summary-ranges/)|Medium|
 |229|[majority-element-ii](https://leetcode.com/problems/majority-element-ii)|||Medium|
-|230|[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|||Medium|
+|230|[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst)||[:memo:](https://leetcode.com/articles/kth-smallest-element-in-a-bst/)|Medium|
 |231|[power-of-two](https://leetcode.com/problems/power-of-two)|||Easy|
 |232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks)||[:memo:](https://leetcode.com/articles/implement-queue-using-stacks/)|Easy|
 |233|[number-of-digit-one](https://leetcode.com/problems/number-of-digit-one)||[:memo:](https://leetcode.com/articles/number-of-digit-one/)|Hard|
@@ -226,7 +226,7 @@ I have solved **64** out of **982** problems. If you have any suggestions, feedb
 |235|[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/235-lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.java)|[:memo:](https://leetcode.com/articles/lowest-common-ancestor-of-a-binary-search-tree/)|Easy|
 |236|[lowest-common-ancestor-of-a-binary-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/lowest-common-ancestor-of-a-binary-tree/)|Medium|
 |237|[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list)||[:memo:](https://leetcode.com/articles/delete-node-linked-list/)|Easy|
-|238|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self)|||Medium|
+|238|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self)||[:memo:](https://leetcode.com/articles/product-of-array-except-self/)|Medium|
 |239|[sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum)||[:memo:](https://leetcode.com/articles/sliding-window-maximum/)|Hard|
 |240|[search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii)||[:memo:](https://leetcode.com/articles/search-a-2d-matrix-ii/)|Medium|
 |241|[different-ways-to-add-parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses)|||Medium|
@@ -276,7 +276,7 @@ I have solved **64** out of **982** problems. If you have any suggestions, feedb
 |286|[walls-and-gates](https://leetcode.com/problems/walls-and-gates)|:lock:|[:memo:](https://leetcode.com/articles/walls-and-gates/)|Medium|
 |287|[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number)||[:memo:](https://leetcode.com/articles/find-the-duplicate-number/)|Medium|
 |288|[unique-word-abbreviation](https://leetcode.com/problems/unique-word-abbreviation)|:lock:|[:memo:](https://leetcode.com/articles/unique-word-abbreviation/)|Medium|
-|289|[game-of-life](https://leetcode.com/problems/game-of-life)|||Medium|
+|289|[game-of-life](https://leetcode.com/problems/game-of-life)||[:memo:](https://leetcode.com/articles/game-of-life/)|Medium|
 |290|[word-pattern](https://leetcode.com/problems/word-pattern)|||Easy|
 |291|[word-pattern-ii](https://leetcode.com/problems/word-pattern-ii)|:lock:||Hard|
 |292|[nim-game](https://leetcode.com/problems/nim-game)||[:memo:](https://leetcode.com/articles/nim-game/)|Easy|
@@ -433,7 +433,7 @@ I have solved **64** out of **982** problems. If you have any suggestions, feedb
 |449|[serialize-and-deserialize-bst](https://leetcode.com/problems/serialize-and-deserialize-bst)|||Medium|
 |450|[delete-node-in-a-bst](https://leetcode.com/problems/delete-node-in-a-bst)||[:memo:](https://leetcode.com/articles/delete-node-in-a-bst/)|Medium|
 |451|[sort-characters-by-frequency](https://leetcode.com/problems/sort-characters-by-frequency)|||Medium|
-|452|[minimum-number-of-arrows-to-burst-balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)|||Medium|
+|452|[minimum-number-of-arrows-to-burst-balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)||[:memo:](https://leetcode.com/articles/minimum-number-of-arrows-to-burst-balloons/)|Medium|
 |453|[minimum-moves-to-equal-array-elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements)||[:memo:](https://leetcode.com/articles/minimum-moves-to-equal-array-elements/)|Easy|
 |454|[4sum-ii](https://leetcode.com/problems/4sum-ii)|||Medium|
 |455|[assign-cookies](https://leetcode.com/problems/assign-cookies)|||Easy|
@@ -962,7 +962,7 @@ I have solved **64** out of **982** problems. If you have any suggestions, feedb
 |1047|[maximize-sum-of-array-after-k-negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations)|||Easy|
 |1048|[clumsy-factorial](https://leetcode.com/problems/clumsy-factorial)|||Medium|
 |1049|[minimum-domino-rotations-for-equal-row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)|||Medium|
-|1050|[construct-binary-search-tree-from-preorder-traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/1050-construct-binary-search-tree-from-preorder-traversal/construct-binary-search-tree-from-preorder-traversal.java)||Medium|
+|1050|[construct-binary-search-tree-from-preorder-traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/1050-construct-binary-search-tree-from-preorder-traversal/construct-binary-search-tree-from-preorder-traversal.java)|[:memo:](https://leetcode.com/articles/construct-bst-from-preorder-traversal/)|Medium|
 |1054|[complement-of-base-10-integer](https://leetcode.com/problems/complement-of-base-10-integer)|||Easy|
 |1055|[pairs-of-songs-with-total-durations-divisible-by-60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)|||Easy|
 |1056|[capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|||Medium|
@@ -984,6 +984,22 @@ I have solved **64** out of **982** problems. If you have any suggestions, feedb
 |1092|[maximum-difference-between-node-and-ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)|||Medium|
 |1093|[recover-a-tree-from-preorder-traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)|||Hard|
 |1094|[matrix-cells-in-distance-order](https://leetcode.com/problems/matrix-cells-in-distance-order)|||Easy|
-|1095|[two-city-scheduling](https://leetcode.com/problems/two-city-scheduling)|||Easy|
+|1095|[two-city-scheduling](https://leetcode.com/problems/two-city-scheduling)||[:memo:](https://leetcode.com/articles/two-city-scheduling/)|Easy|
 |1096|[maximum-sum-of-two-non-overlapping-subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays)|||Medium|
 |1097|[stream-of-characters](https://leetcode.com/problems/stream-of-characters)|||Hard|
+|1103|[moving-stones-until-consecutive](https://leetcode.com/problems/moving-stones-until-consecutive)|||Easy|
+|1104|[coloring-a-border](https://leetcode.com/problems/coloring-a-border)|||Medium|
+|1105|[uncrossed-lines](https://leetcode.com/problems/uncrossed-lines)|||Medium|
+|1106|[escape-a-large-maze](https://leetcode.com/problems/escape-a-large-maze)|||Hard|
+|1111|[minimum-score-triangulation-of-polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon)|||Medium|
+|1113|[moving-stones-until-consecutive-ii](https://leetcode.com/problems/moving-stones-until-consecutive-ii)|||Medium|
+|1114|[binary-search-tree-to-greater-sum-tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|||Medium|
+|1115|[valid-boomerang](https://leetcode.com/problems/valid-boomerang)|||Easy|
+|1119|[robot-bounded-in-circle](https://leetcode.com/problems/robot-bounded-in-circle)|||Easy|
+|1120|[flower-planting-with-no-adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent)|||Easy|
+|1121|[partition-array-for-maximum-sum](https://leetcode.com/problems/partition-array-for-maximum-sum)|||Medium|
+|1122|[longest-duplicate-substring](https://leetcode.com/problems/longest-duplicate-substring)|||Hard|
+|1127|[last-stone-weight](https://leetcode.com/problems/last-stone-weight)|||Easy|
+|1128|[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|||Easy|
+|1129|[longest-string-chain](https://leetcode.com/problems/longest-string-chain)|||Medium|
+|1130|[last-stone-weight-ii](https://leetcode.com/problems/last-stone-weight-ii)|||Medium|
