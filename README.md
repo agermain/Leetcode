@@ -1,7 +1,7 @@
 # Leetcode Solutions with Golang, Java, Python3
-Last updated:  2019-05-22 00:59:39
+Last updated:  2019-05-25 22:41:06
 
-I have solved **66** out of **998** problems. If you have any suggestions, feedback is appreciated.
+I have solved **70** out of **998** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -110,7 +110,7 @@ I have solved **66** out of **998** problems. If you have any suggestions, feedb
 |103|[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|||Medium|
 |104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.java)|[:memo:](https://leetcode.com/articles/maximum-depth-of-binary-tree/)|Easy|
 |105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-inorder-tr/)|Medium|
-|106|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|||Medium|
+|106|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-inorder-and-postorder-t/)|Medium|
 |107|[binary-tree-level-order-traversal-ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|||Easy|
 |108|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/108-convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.java)||Easy|
 |109|[convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)||[:memo:](https://leetcode.com/articles/convert-sorted-list-to-binary-search-tree/)|Medium|
@@ -628,7 +628,7 @@ I have solved **66** out of **998** problems. If you have any suggestions, feedb
 |690|[employee-importance](https://leetcode.com/problems/employee-importance)||[:memo:](https://leetcode.com/articles/employee-importance/)|Easy|
 |691|[stickers-to-spell-word](https://leetcode.com/problems/stickers-to-spell-word)||[:memo:](https://leetcode.com/articles/stickers-to-spell-word/)|Hard|
 |692|[top-k-frequent-words](https://leetcode.com/problems/top-k-frequent-words)||[:memo:](https://leetcode.com/articles/top-k-frequent-words/)|Medium|
-|693|[binary-number-with-alternating-bits](https://leetcode.com/problems/binary-number-with-alternating-bits)||[:memo:](https://leetcode.com/articles/binary-number-with-alternating-bits/)|Easy|
+|693|[binary-number-with-alternating-bits](https://leetcode.com/problems/binary-number-with-alternating-bits)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/693-binary-number-with-alternating-bits/binary-number-with-alternating-bits.java)|[:memo:](https://leetcode.com/articles/binary-number-with-alternating-bits/)|Easy|
 |694|[number-of-distinct-islands](https://leetcode.com/problems/number-of-distinct-islands)|:lock:|[:memo:](https://leetcode.com/articles/number-of-distinct-islands/)|Medium|
 |695|[max-area-of-island](https://leetcode.com/problems/max-area-of-island)||[:memo:](https://leetcode.com/articles/max-area-of-island/)|Medium|
 |696|[count-binary-substrings](https://leetcode.com/problems/count-binary-substrings)||[:memo:](https://leetcode.com/articles/count-binary-substrings/)|Easy|
@@ -698,7 +698,7 @@ I have solved **66** out of **998** problems. If you have any suggestions, feedb
 |771|[encode-n-ary-tree-to-binary-tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree)|:lock:||Hard|
 |772|[construct-quad-tree](https://leetcode.com/problems/construct-quad-tree)|||Easy|
 |773|[quad-tree-intersection](https://leetcode.com/problems/quad-tree-intersection)|||Easy|
-|774|[maximum-depth-of-n-ary-tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)||[:memo:](https://leetcode.com/articles/maximum-depth-of-n-ary-tree/)|Easy|
+|774|[maximum-depth-of-n-ary-tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/774-maximum-depth-of-n-ary-tree/maximum-depth-of-n-ary-tree.java)|[:memo:](https://leetcode.com/articles/maximum-depth-of-n-ary-tree/)|Easy|
 |775|[n-ary-tree-preorder-traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/n-ary-tree-preorder-traversal/)|Easy|
 |776|[n-ary-tree-postorder-traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/n-ary-tree-postorder-transversal/)|Easy|
 |777|[toeplitz-matrix](https://leetcode.com/problems/toeplitz-matrix)||[:memo:](https://leetcode.com/articles/toeplitz-matrix/)|Easy|
@@ -999,7 +999,7 @@ I have solved **66** out of **998** problems. If you have any suggestions, feedb
 |1120|[flower-planting-with-no-adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent)|||Easy|
 |1121|[partition-array-for-maximum-sum](https://leetcode.com/problems/partition-array-for-maximum-sum)|||Medium|
 |1122|[longest-duplicate-substring](https://leetcode.com/problems/longest-duplicate-substring)|||Hard|
-|1127|[last-stone-weight](https://leetcode.com/problems/last-stone-weight)|||Easy|
-|1128|[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|||Easy|
+|1127|[last-stone-weight](https://leetcode.com/problems/last-stone-weight)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/1127-last-stone-weight/last-stone-weight.java)||Easy|
+|1128|[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Java](https://github.com/apg258/Leetcode/blob/master/solutions/1128-remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.java)||Easy|
 |1129|[longest-string-chain](https://leetcode.com/problems/longest-string-chain)|||Medium|
 |1130|[last-stone-weight-ii](https://leetcode.com/problems/last-stone-weight-ii)|||Medium|
