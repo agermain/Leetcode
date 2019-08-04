@@ -11,8 +11,6 @@
 // return [0, 1].
 //
 //
-//  
-//
 
 
 func twoSum(nums []int, target int) []int {
