@@ -20,7 +20,13 @@
 //
 //  
 //
-// Note: There are at least two nodes in this BST.
+// Note:
+//
+//
+// 	There are at least two nodes in this BST.
+// 	This question is the same as 783: https://leetcode.com/problems/minimum-distance-between-bst-nodes/
+//
+//
 
 
 /**

@@ -36,6 +36,16 @@
 //           4
 //
 //
+//  
+// Constraints:
+//
+//
+// 	The number of nodes in the given tree will be between 0 and 10^4.
+// 	Each node will have a unique integer value from 0 to -10^8, inclusive.
+// 	-10^8 <= val <= 10^8
+// 	It's guaranteed that val does not exist in the original BST.
+//
+//
 
 
 /**

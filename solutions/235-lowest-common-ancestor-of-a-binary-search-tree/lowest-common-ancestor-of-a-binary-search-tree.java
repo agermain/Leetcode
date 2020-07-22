@@ -23,8 +23,7 @@
 //
 //
 //  
-//
-// Note:
+// Constraints:
 //
 //
 // 	All of the nodes' values will be unique.
