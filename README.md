@@ -1,10 +1,10 @@
 # Leetcode Solutions with Golang, Java, Python3
 
-[![LeetCode](https://img.shields.io/badge/agermain-80-green.svg)](https://leetcode.com/agermain/)
+[![LeetCode](https://img.shields.io/badge/agermain-84-green.svg)](https://leetcode.com/agermain/)
 
-Last updated:  2020-08-24 20:39:20
+Last updated:  2020-08-26 19:19:46
 
-I have solved **80** out of **1426** problems. If you have any suggestions, feedback is appreciated.
+I have solved **84** out of **1426** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -228,7 +228,7 @@ I have solved **80** out of **1426** problems. If you have any suggestions, feed
 |234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list)||[:memo:](https://leetcode.com/articles/palindrome-linked-list/)|Easy|
 |235|[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[Java](https://github.com/agermain/Leetcode/blob/master/solutions/235-lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.java)|[:memo:](https://leetcode.com/articles/lowest-common-ancestor-of-a-binary-search-tree/)|Easy|
 |236|[lowest-common-ancestor-of-a-binary-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/lowest-common-ancestor-of-a-binary-tree/)|Medium|
-|237|[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list)||[:memo:](https://leetcode.com/articles/delete-node-linked-list/)|Easy|
+|237|[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list)|[Python3](https://github.com/agermain/Leetcode/blob/master/solutions/237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.py)|[:memo:](https://leetcode.com/articles/delete-node-linked-list/)|Easy|
 |238|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self)||[:memo:](https://leetcode.com/articles/product-of-array-except-self/)|Medium|
 |239|[sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum)||[:memo:](https://leetcode.com/articles/sliding-window-maximum/)|Hard|
 |240|[search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii)||[:memo:](https://leetcode.com/articles/search-a-2d-matrix-ii/)|Medium|
@@ -406,7 +406,7 @@ I have solved **80** out of **1426** problems. If you have any suggestions, feed
 |413|[arithmetic-slices](https://leetcode.com/problems/arithmetic-slices)||[:memo:](https://leetcode.com/articles/arithmetic-slices/)|Medium|
 |414|[third-maximum-number](https://leetcode.com/problems/third-maximum-number)|[Java](https://github.com/agermain/Leetcode/blob/master/solutions/414-third-maximum-number/third-maximum-number.java)|[:memo:](https://leetcode.com/articles/third-maximum-number/)|Easy|
 |415|[add-strings](https://leetcode.com/problems/add-strings)||[:memo:](https://leetcode.com/articles/add-strings/)|Easy|
-|416|[partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum)|||Medium|
+|416|[partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum)||[:memo:](https://leetcode.com/articles/partition-equal-subset-sum/)|Medium|
 |417|[pacific-atlantic-water-flow](https://leetcode.com/problems/pacific-atlantic-water-flow)|||Medium|
 |418|[sentence-screen-fitting](https://leetcode.com/problems/sentence-screen-fitting)|:lock:||Medium|
 |419|[battleships-in-a-board](https://leetcode.com/problems/battleships-in-a-board)|||Medium|
@@ -477,7 +477,7 @@ I have solved **80** out of **1426** problems. If you have any suggestions, feed
 |493|[reverse-pairs](https://leetcode.com/problems/reverse-pairs)||[:memo:](https://leetcode.com/articles/reverse-pairs/)|Hard|
 |494|[target-sum](https://leetcode.com/problems/target-sum)||[:memo:](https://leetcode.com/articles/target-sum/)|Medium|
 |495|[teemo-attacking](https://leetcode.com/problems/teemo-attacking)||[:memo:](https://leetcode.com/articles/teemo-attacking/)|Medium|
-|496|[next-greater-element-i](https://leetcode.com/problems/next-greater-element-i)||[:memo:](https://leetcode.com/articles/greater-element-i/)|Easy|
+|496|[next-greater-element-i](https://leetcode.com/problems/next-greater-element-i)|[Python3](https://github.com/agermain/Leetcode/blob/master/solutions/496-next-greater-element-i/next-greater-element-i.py)|[:memo:](https://leetcode.com/articles/greater-element-i/)|Easy|
 |498|[diagonal-traverse](https://leetcode.com/problems/diagonal-traverse)||[:memo:](https://leetcode.com/articles/diagonal-traverse/)|Medium|
 |499|[the-maze-iii](https://leetcode.com/problems/the-maze-iii)|:lock:||Hard|
 |500|[keyboard-row](https://leetcode.com/problems/keyboard-row)|||Easy|
@@ -1300,7 +1300,7 @@ I have solved **80** out of **1426** problems. If you have any suggestions, feed
 |1505|[create-target-array-in-the-given-order](https://leetcode.com/problems/create-target-array-in-the-given-order)|||Easy|
 |1507|[check-if-there-is-a-valid-path-in-a-grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid)|||Medium|
 |1508|[longest-happy-prefix](https://leetcode.com/problems/longest-happy-prefix)|||Hard|
-|1510|[find-lucky-integer-in-an-array](https://leetcode.com/problems/find-lucky-integer-in-an-array)||[:memo:](https://leetcode.com/articles/find-lucky-integer-in-an-array/)|Easy|
+|1510|[find-lucky-integer-in-an-array](https://leetcode.com/problems/find-lucky-integer-in-an-array)|[Python3](https://github.com/agermain/Leetcode/blob/master/solutions/1510-find-lucky-integer-in-an-array/find-lucky-integer-in-an-array.py)|[:memo:](https://leetcode.com/articles/find-lucky-integer-in-an-array/)|Easy|
 |1511|[count-number-of-teams](https://leetcode.com/problems/count-number-of-teams)|||Medium|
 |1512|[design-underground-system](https://leetcode.com/problems/design-underground-system)||[:memo:](https://leetcode.com/articles/design-underground-system/)|Medium|
 |1513|[find-all-good-strings](https://leetcode.com/problems/find-all-good-strings)|||Hard|
@@ -1376,7 +1376,7 @@ I have solved **80** out of **1426** problems. If you have any suggestions, feed
 |1613|[find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)|||Hard|
 |1615|[range-sum-of-sorted-subarray-sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums)|||Medium|
 |1616|[minimum-difference-between-largest-and-smallest-value-in-three-moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves)|||Medium|
-|1617|[stone-game-iv](https://leetcode.com/problems/stone-game-iv)|||Hard|
+|1617|[stone-game-iv](https://leetcode.com/problems/stone-game-iv)||[:memo:](https://leetcode.com/articles/stone-game-iv/)|Hard|
 |1618|[delete-n-nodes-after-m-nodes-of-a-linked-list](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list)|:lock:||Easy|
 |1619|[path-crossing](https://leetcode.com/problems/path-crossing)|||Easy|
 |1620|[check-if-array-pairs-are-divisible-by-k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k)|||Medium|
@@ -1397,7 +1397,7 @@ I have solved **80** out of **1426** problems. If you have any suggestions, feed
 |1637|[string-compression-ii](https://leetcode.com/problems/string-compression-ii)|||Hard|
 |1638|[best-position-for-a-service-centre](https://leetcode.com/problems/best-position-for-a-service-centre)|||Hard|
 |1640|[design-a-file-sharing-system](https://leetcode.com/problems/design-a-file-sharing-system)|:lock:||Medium|
-|1642|[water-bottles](https://leetcode.com/problems/water-bottles)|||Easy|
+|1642|[water-bottles](https://leetcode.com/problems/water-bottles)|[Python3](https://github.com/agermain/Leetcode/blob/master/solutions/1642-water-bottles/water-bottles.py)||Easy|
 |1643|[number-of-nodes-in-the-sub-tree-with-the-same-label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label)|||Medium|
 |1644|[maximum-number-of-non-overlapping-substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings)|||Hard|
 |1645|[find-a-value-of-a-mysterious-function-closest-to-target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target)|||Hard|
