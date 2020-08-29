@@ -1,10 +1,10 @@
 # Leetcode Solutions with Golang, Java, Python3
 
-[![LeetCode](https://img.shields.io/badge/agermain-90-green.svg)](https://leetcode.com/agermain/)
+[![LeetCode](https://img.shields.io/badge/agermain-92-green.svg)](https://leetcode.com/agermain/)
 
-Last updated:  2020-08-28 23:32:11
+Last updated:  2020-08-29 21:20:46
 
-I have solved **90** out of **1427** problems. If you have any suggestions, feedback is appreciated.
+I have solved **92** out of **1427** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -625,7 +625,7 @@ I have solved **90** out of **1427** problems. If you have any suggestions, feed
 |683|[k-empty-slots](https://leetcode.com/problems/k-empty-slots)|:lock:|[:memo:](https://leetcode.com/articles/k-empty-slots/)|Hard|
 |684|[redundant-connection](https://leetcode.com/problems/redundant-connection)||[:memo:](https://leetcode.com/articles/redundant-connection/)|Medium|
 |685|[redundant-connection-ii](https://leetcode.com/problems/redundant-connection-ii)||[:memo:](https://leetcode.com/articles/redundant-connection-ii/)|Hard|
-|686|[repeated-string-match](https://leetcode.com/problems/repeated-string-match)||[:memo:](https://leetcode.com/articles/repeated-string-match/)|Easy|
+|686|[repeated-string-match](https://leetcode.com/problems/repeated-string-match)||[:memo:](https://leetcode.com/articles/repeated-string-match/)|Medium|
 |687|[longest-univalue-path](https://leetcode.com/problems/longest-univalue-path)||[:memo:](https://leetcode.com/articles/longest-univalue-path/)|Easy|
 |688|[knight-probability-in-chessboard](https://leetcode.com/problems/knight-probability-in-chessboard)||[:memo:](https://leetcode.com/articles/knight-probability-in-chessboard/)|Medium|
 |689|[maximum-sum-of-3-non-overlapping-subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays)||[:memo:](https://leetcode.com/articles/maximum-sum-of-3-non-overlapping-intervals/)|Hard|
@@ -879,7 +879,7 @@ I have solved **90** out of **1427** problems. If you have any suggestions, feed
 |955|[complete-binary-tree-inserter](https://leetcode.com/problems/complete-binary-tree-inserter)||[:memo:](https://leetcode.com/articles/complete-binary-tree-inserter/)|Medium|
 |956|[number-of-music-playlists](https://leetcode.com/problems/number-of-music-playlists)||[:memo:](https://leetcode.com/articles/number-of-music-playlists/)|Hard|
 |957|[minimum-add-to-make-parentheses-valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)||[:memo:](https://leetcode.com/articles/minimum-add-to-make-parentheses-valid/)|Medium|
-|958|[sort-array-by-parity-ii](https://leetcode.com/problems/sort-array-by-parity-ii)||[:memo:](https://leetcode.com/articles/sort-array-by-parity-ii/)|Easy|
+|958|[sort-array-by-parity-ii](https://leetcode.com/problems/sort-array-by-parity-ii)|[Golang](https://github.com/agermain/Leetcode/blob/master/solutions/958-sort-array-by-parity-ii/sort-array-by-parity-ii.go)|[:memo:](https://leetcode.com/articles/sort-array-by-parity-ii/)|Easy|
 |959|[3sum-with-multiplicity](https://leetcode.com/problems/3sum-with-multiplicity)||[:memo:](https://leetcode.com/articles/3sum-with-multiplicity/)|Medium|
 |960|[minimize-malware-spread](https://leetcode.com/problems/minimize-malware-spread)||[:memo:](https://leetcode.com/articles/minimize-malware-spread/)|Hard|
 |961|[long-pressed-name](https://leetcode.com/problems/long-pressed-name)||[:memo:](https://leetcode.com/articles/long-pressed-name/)|Easy|
@@ -970,7 +970,7 @@ I have solved **90** out of **1427** problems. If you have any suggestions, feed
 |1051|[shortest-way-to-form-string](https://leetcode.com/problems/shortest-way-to-form-string)|:lock:||Medium|
 |1052|[campus-bikes](https://leetcode.com/problems/campus-bikes)|:lock:||Medium|
 |1053|[minimize-rounding-error-to-meet-target](https://leetcode.com/problems/minimize-rounding-error-to-meet-target)|:lock:||Medium|
-|1054|[complement-of-base-10-integer](https://leetcode.com/problems/complement-of-base-10-integer)||[:memo:](https://leetcode.com/articles/complement-of-base-10-integer/)|Easy|
+|1054|[complement-of-base-10-integer](https://leetcode.com/problems/complement-of-base-10-integer)|[Golang](https://github.com/agermain/Leetcode/blob/master/solutions/1054-complement-of-base-10-integer/complement-of-base-10-integer.go)|[:memo:](https://leetcode.com/articles/complement-of-base-10-integer/)|Easy|
 |1055|[pairs-of-songs-with-total-durations-divisible-by-60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)|||Easy|
 |1056|[capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|||Medium|
 |1057|[numbers-with-repeated-digits](https://leetcode.com/problems/numbers-with-repeated-digits)|||Hard|
