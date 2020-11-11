@@ -54,9 +54,9 @@
 #
 #
 # 	n == candies.length
-# 	2 <= n <= 10^4
+# 	2 <= n <= 104
 # 	n is even.
-# 	-10^5 <= candies[i] <= 10^5
+# 	-105 <= candies[i] <= 105
 #
 #
 
