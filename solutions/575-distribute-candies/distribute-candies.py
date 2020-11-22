@@ -1,8 +1,8 @@
-# You have n candies, the ith candy is of type candies[i].
+# Alice has n candies, where the ith candy is of type candyType[i]. Alice noticed that she started to gain weight, that is why she visited a doctor.
 #
-# You want to distribute the candies equally between a sister and a brother so that each of them gets n / 2 candies (n is even). The sister loves to collect different types of candies, so you want to give her the maximum number of different types of candies.
+# The doctor advised Alice to only eat n / 2 of the candies she has (n is always even). Alice likes her candies very much. She wants to eat the maximum number of different types of candies.
 #
-# Return the maximum number of different types of candies you can give to the sister.
+# Given the integer array candyType of length n, return the maximum number of different types of candies she can eat, achieving the doctor's advice.
 #
 #
 #
@@ -11,52 +11,37 @@
 # Example 1:
 #
 #
-# Input: candies = [1,1,2,2,3,3]
+# Input: candyType = [1,1,2,2,3,3]
 # Output: 3
-# Explanation:
-# There are three different kinds of candies (1, 2 and 3), and two candies for each kind.
-# Optimal distribution: The sister has candies [1,2,3] and the brother has candies [1,2,3], too. 
-# The sister has three different kinds of candies. 
+# Explanation: Alice should eat only 3 candies, she currently has 2 candies of the first type, 2 candies of the second type, and 2 candies of the third type.
+# Alice will choose to eat 1 candy of each type. This leads her to eat 3 different types of candies and we return 3.
 #
 #
 # Example 2:
 #
 #
-# Input: candies = [1,1,2,3]
+# Input: candyType = [1,1,2,3]
 # Output: 2
-# Explanation: For example, the sister has candies [2,3] and the brother has candies [1,1]. 
-# The sister has two different kinds of candies, the brother has only one kind of candies.
+# Explanation: Alice can eat 2 candies, and she always has the option to eat them different [1,2], [1,3], or [2,3].
 #
 #
 # Example 3:
 #
 #
-# Input: candies = [1,1]
+# Input: candyType = [6,6,6,6]
 # Output: 1
+# Explanation: Alice has only one type of candies, she will eat only one type i.e., type 6.
 #
-#
-# Example 4:
-#
-#
-# Input: candies = [1,11]
-# Output: 1
-#
-#
-# Example 5:
-#
-#
-# Input: candies = [2,2]
-# Output: 1
 #
 #
 #  
 # Constraints:
 #
 #
-# 	n == candies.length
+# 	n == candyType.length
 # 	2 <= n <= 104
 # 	n is even.
-# 	-105 <= candies[i] <= 105
+# 	-105 <= candyType[i] <= 105
 #
 #
 

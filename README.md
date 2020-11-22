@@ -1,10 +1,10 @@
 # Leetcode Solutions with Golang, Java, Python3
 
-[![LeetCode](https://img.shields.io/badge/agermain-104-green.svg)](https://leetcode.com/agermain/)
+[![LeetCode](https://img.shields.io/badge/agermain-105-green.svg)](https://leetcode.com/agermain/)
 
-Last updated:  2020-11-14 23:52:59
+Last updated:  2020-11-22 21:01:30
 
-I have solved **104** out of **1506** problems. If you have any suggestions, feedback is appreciated.
+I have solved **105** out of **1515** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -372,7 +372,7 @@ I have solved **104** out of **1506** problems. If you have any suggestions, fee
 |379|[design-phone-directory](https://leetcode.com/problems/design-phone-directory)|:lock:||Medium|
 |380|[insert-delete-getrandom-o1](https://leetcode.com/problems/insert-delete-getrandom-o1)||[:memo:](https://leetcode.com/articles/insert-delete-getrandom-o1/)|Medium|
 |381|[insert-delete-getrandom-o1-duplicates-allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed)||[:memo:](https://leetcode.com/articles/insert-delete-getrandom-o1-duplicates-allowed/)|Hard|
-|382|[linked-list-random-node](https://leetcode.com/problems/linked-list-random-node)|||Medium|
+|382|[linked-list-random-node](https://leetcode.com/problems/linked-list-random-node)||[:memo:](https://leetcode.com/articles/linked-list-random-node/)|Medium|
 |383|[ransom-note](https://leetcode.com/problems/ransom-note)|[Java](https://github.com/agermain/Leetcode/blob/master/solutions/383-ransom-note/ransom-note.java)|[:memo:](https://leetcode.com/articles/ransom-note/)|Easy|
 |384|[shuffle-an-array](https://leetcode.com/problems/shuffle-an-array)||[:memo:](https://leetcode.com/articles/shuffle-an-array/)|Medium|
 |385|[mini-parser](https://leetcode.com/problems/mini-parser)|||Medium|
@@ -492,7 +492,7 @@ I have solved **104** out of **1506** problems. If you have any suggestions, fee
 |508|[most-frequent-subtree-sum](https://leetcode.com/problems/most-frequent-subtree-sum)|||Medium|
 |509|[inorder-successor-in-bst-ii](https://leetcode.com/problems/inorder-successor-in-bst-ii)|:lock:|[:memo:](https://leetcode.com/articles/inorder-successor-in-a-bst-ii/)|Medium|
 |511|[all-paths-from-source-lead-to-destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination)|:lock:||Medium|
-|513|[find-bottom-left-tree-value](https://leetcode.com/problems/find-bottom-left-tree-value)|||Medium|
+|513|[find-bottom-left-tree-value](https://leetcode.com/problems/find-bottom-left-tree-value)|[Python3](https://github.com/agermain/Leetcode/blob/master/solutions/513-find-bottom-left-tree-value/find-bottom-left-tree-value.py)||Medium|
 |514|[freedom-trail](https://leetcode.com/problems/freedom-trail)|||Hard|
 |515|[find-largest-value-in-each-tree-row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)|||Medium|
 |516|[longest-palindromic-subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)|||Medium|
@@ -1024,7 +1024,7 @@ I have solved **104** out of **1506** problems. If you have any suggestions, fee
 |1104|[coloring-a-border](https://leetcode.com/problems/coloring-a-border)|||Medium|
 |1105|[uncrossed-lines](https://leetcode.com/problems/uncrossed-lines)|||Medium|
 |1106|[escape-a-large-maze](https://leetcode.com/problems/escape-a-large-maze)|||Hard|
-|1107|[minimum-swaps-to-group-all-1s-together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together)|:lock:||Medium|
+|1107|[minimum-swaps-to-group-all-1s-together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together)|:lock:|[:memo:](https://leetcode.com/articles/minimum-swaps-to-group-all-1s-together/)|Medium|
 |1108|[analyze-user-website-visit-pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern)|:lock:||Medium|
 |1111|[minimum-score-triangulation-of-polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon)|||Medium|
 |1112|[find-words-that-can-be-formed-by-characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)|||Easy|
@@ -1368,7 +1368,7 @@ I have solved **104** out of **1506** problems. If you have any suggestions, fee
 |1582|[design-browser-history](https://leetcode.com/problems/design-browser-history)|||Medium|
 |1583|[paint-house-iii](https://leetcode.com/problems/paint-house-iii)|||Hard|
 |1584|[average-salary-excluding-the-minimum-and-maximum-salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary)|||Easy|
-|1585|[the-kth-factor-of-n](https://leetcode.com/problems/the-kth-factor-of-n)|||Medium|
+|1585|[the-kth-factor-of-n](https://leetcode.com/problems/the-kth-factor-of-n)||[:memo:](https://leetcode.com/articles/the-kth-factor-of-n/)|Medium|
 |1586|[longest-subarray-of-1s-after-deleting-one-element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)|||Medium|
 |1587|[parallel-courses-ii](https://leetcode.com/problems/parallel-courses-ii)|||Hard|
 |1603|[running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array)|||Easy|
@@ -1410,7 +1410,7 @@ I have solved **104** out of **1506** problems. If you have any suggestions, fee
 |1647|[can-convert-string-in-k-moves](https://leetcode.com/problems/can-convert-string-in-k-moves)|||Medium|
 |1648|[minimum-insertions-to-balance-a-parentheses-string](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string)|||Medium|
 |1649|[maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target)|||Medium|
-|1650|[find-root-of-n-ary-tree](https://leetcode.com/problems/find-root-of-n-ary-tree)|:lock:||Medium|
+|1650|[find-root-of-n-ary-tree](https://leetcode.com/problems/find-root-of-n-ary-tree)|:lock:|[:memo:](https://leetcode.com/articles/find-root-of-n-ary-tree/)|Medium|
 |1651|[shuffle-string](https://leetcode.com/problems/shuffle-string)|||Easy|
 |1652|[bulb-switcher-iv](https://leetcode.com/problems/bulb-switcher-iv)|||Medium|
 |1653|[number-of-good-leaf-nodes-pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs)|||Medium|
@@ -1477,7 +1477,7 @@ I have solved **104** out of **1506** problems. If you have any suggestions, fee
 |1725|[number-of-sets-of-k-non-overlapping-line-segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments)|||Medium|
 |1726|[coordinate-with-maximum-network-quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality)|||Medium|
 |1728|[fancy-sequence](https://leetcode.com/problems/fancy-sequence)|||Hard|
-|1729|[binary-search-tree-iterator-ii](https://leetcode.com/problems/binary-search-tree-iterator-ii)|:lock:||Medium|
+|1729|[binary-search-tree-iterator-ii](https://leetcode.com/problems/binary-search-tree-iterator-ii)|:lock:|[:memo:](https://leetcode.com/articles/binary-search-tree-iterator-ii/)|Medium|
 |1730|[special-array-with-x-elements-greater-than-or-equal-x](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x)|||Easy|
 |1731|[even-odd-tree](https://leetcode.com/problems/even-odd-tree)|||Medium|
 |1732|[minimum-one-bit-operations-to-make-integers-zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero)|||Hard|
@@ -1512,5 +1512,14 @@ I have solved **104** out of **1506** problems. If you have any suggestions, fee
 |1771|[sell-diminishing-valued-colored-balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls)|||Medium|
 |1772|[create-sorted-array-through-instructions](https://leetcode.com/problems/create-sorted-array-through-instructions)||[:memo:](https://leetcode.com/articles/create-sorted-array-through-instructions/)|Hard|
 |1774|[add-two-polynomials-represented-as-linked-lists](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists)|:lock:||Medium|
+|1775|[design-an-ordered-stream](https://leetcode.com/problems/design-an-ordered-stream)|||Easy|
+|1776|[minimum-operations-to-reduce-x-to-zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero)||[:memo:](https://leetcode.com/articles/minimum-operations-to-reduce-x-to-zero/)|Medium|
+|1777|[determine-if-two-strings-are-close](https://leetcode.com/problems/determine-if-two-strings-are-close)||[:memo:](https://leetcode.com/articles/determine-if-two-strings-are-close/)|Medium|
+|1778|[maximize-grid-happiness](https://leetcode.com/problems/maximize-grid-happiness)|||Hard|
 |1780|[lowest-common-ancestor-of-a-binary-tree-ii](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii)|:lock:||Medium|
+|1781|[check-if-two-string-arrays-are-equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)||[:memo:](https://leetcode.com/articles/check-if-two-string-arrays-are-equivalent/)|Easy|
+|1782|[smallest-string-with-a-given-numeric-value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value)||[:memo:](https://leetcode.com/articles/smallest-string-with-a-given-numeric-value/)|Medium|
+|1783|[ways-to-make-a-fair-array](https://leetcode.com/problems/ways-to-make-a-fair-array)|||Medium|
+|1784|[minimum-initial-energy-to-finish-tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks)|||Hard|
 |1790|[lowest-common-ancestor-of-a-binary-tree-iii](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)|:lock:||Medium|
+|1796|[correct-a-binary-tree](https://leetcode.com/problems/correct-a-binary-tree)|:lock:||Medium|
