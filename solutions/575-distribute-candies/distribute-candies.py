@@ -1,11 +1,8 @@
-# Alice has n candies, where the ith candy is of type candyType[i]. Alice noticed that she started to gain weight, that is why she visited a doctor.
+# Alice has n candies, where the ith candy is of type candyType[i]. Alice noticed that she started to gain weight, so she visited a doctor.
 #
-# The doctor advised Alice to only eat n / 2 of the candies she has (n is always even). Alice likes her candies very much. She wants to eat the maximum number of different types of candies.
+# The doctor advised Alice to only eat n / 2 of the candies she has (n is always even). Alice likes her candies very much, and she wants to eat the maximum number of different types of candies while still following the doctor's advice.
 #
-# Given the integer array candyType of length n, return the maximum number of different types of candies she can eat, achieving the doctor's advice.
-#
-#
-#
+# Given the integer array candyType of length n, return the maximum number of different types of candies she can eat if she only eats n / 2 of them.
 #
 #  
 # Example 1:
@@ -13,8 +10,7 @@
 #
 # Input: candyType = [1,1,2,2,3,3]
 # Output: 3
-# Explanation: Alice should eat only 3 candies, she currently has 2 candies of the first type, 2 candies of the second type, and 2 candies of the third type.
-# Alice will choose to eat 1 candy of each type. This leads her to eat 3 different types of candies and we return 3.
+# Explanation: Alice can only eat 6 / 2 = 3 candies. Since there are only 3 types, she can eat one of each type.
 #
 #
 # Example 2:
@@ -22,7 +18,7 @@
 #
 # Input: candyType = [1,1,2,3]
 # Output: 2
-# Explanation: Alice can eat 2 candies, and she always has the option to eat them different [1,2], [1,3], or [2,3].
+# Explanation: Alice can only eat 4 / 2 = 2 candies. Whether she eats types [1,2], [1,3], or [2,3], she still can only eat 2 different types.
 #
 #
 # Example 3:
@@ -30,8 +26,7 @@
 #
 # Input: candyType = [6,6,6,6]
 # Output: 1
-# Explanation: Alice has only one type of candies, she will eat only one type i.e., type 6.
-#
+# Explanation: Alice can only eat 4 / 2 = 2 candies. Even though she can eat 2 candies, she only has 1 type.
 #
 #
 #  
