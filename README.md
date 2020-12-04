@@ -1,10 +1,10 @@
 # Leetcode Solutions with Golang, Java, Python3
 
-[![LeetCode](https://img.shields.io/badge/agermain-112-green.svg)](https://leetcode.com/agermain/)
+[![LeetCode](https://img.shields.io/badge/agermain-116-green.svg)](https://leetcode.com/agermain/)
 
-Last updated:  2020-12-02 19:13:57
+Last updated:  2020-12-04 13:11:18
 
-I have solved **112** out of **1524** problems. If you have any suggestions, feedback is appreciated.
+I have solved **116** out of **1525** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -31,7 +31,7 @@ I have solved **112** out of **1524** problems. If you have any suggestions, fee
 |21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Golang](https://github.com/agermain/Leetcode/blob/master/solutions/021-merge-two-sorted-lists/merge-two-sorted-lists.go)|[:memo:](https://leetcode.com/articles/merged-two-sorted-lists/)|Easy|
 |22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses)||[:memo:](https://leetcode.com/articles/generate-parentheses/)|Medium|
 |23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)||[:memo:](https://leetcode.com/articles/merge-k-sorted-list/)|Hard|
-|24|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[Java](https://github.com/agermain/Leetcode/blob/master/solutions/024-swap-nodes-in-pairs/swap-nodes-in-pairs.java)|[:memo:](https://leetcode.com/articles/swap-nodes-in-pairs/)|Medium|
+|24|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[Java](https://github.com/agermain/Leetcode/blob/master/solutions/024-swap-nodes-in-pairs/swap-nodes-in-pairs.java) [Golang](https://github.com/agermain/Leetcode/blob/master/solutions/024-swap-nodes-in-pairs/swap-nodes-in-pairs.go)|[:memo:](https://leetcode.com/articles/swap-nodes-in-pairs/)|Medium|
 |25|[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group)||[:memo:](https://leetcode.com/articles/reverse-nodes-in-k-group/)|Hard|
 |26|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)||[:memo:](https://leetcode.com/articles/remove-duplicates-from-sorted-array/)|Easy|
 |27|[remove-element](https://leetcode.com/problems/remove-element)||[:memo:](https://leetcode.com/articles/remove-element/)|Easy|
@@ -197,7 +197,7 @@ I have solved **112** out of **1524** problems. If you have any suggestions, fee
 |203|[remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements)||[:memo:](https://leetcode.com/articles/remove-linked-list-elements/)|Easy|
 |204|[count-primes](https://leetcode.com/problems/count-primes)|||Easy|
 |205|[isomorphic-strings](https://leetcode.com/problems/isomorphic-strings)|||Easy|
-|206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list)|[Java](https://github.com/agermain/Leetcode/blob/master/solutions/206-reverse-linked-list/reverse-linked-list.java)|[:memo:](https://leetcode.com/articles/reverse-linked-list/)|Easy|
+|206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list)|[Java](https://github.com/agermain/Leetcode/blob/master/solutions/206-reverse-linked-list/reverse-linked-list.java) [Golang](https://github.com/agermain/Leetcode/blob/master/solutions/206-reverse-linked-list/reverse-linked-list.go)|[:memo:](https://leetcode.com/articles/reverse-linked-list/)|Easy|
 |207|[course-schedule](https://leetcode.com/problems/course-schedule)||[:memo:](https://leetcode.com/articles/course-schedule/)|Medium|
 |208|[implement-trie-prefix-tree](https://leetcode.com/problems/implement-trie-prefix-tree)||[:memo:](https://leetcode.com/articles/implement-trie-prefix-tree/)|Medium|
 |209|[minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum)||[:memo:](https://leetcode.com/articles/minimum-size-subarray-sum/)|Medium|
@@ -334,7 +334,7 @@ I have solved **112** out of **1524** problems. If you have any suggestions, fee
 |341|[flatten-nested-list-iterator](https://leetcode.com/problems/flatten-nested-list-iterator)||[:memo:](https://leetcode.com/articles/flatten-nested-iterator/)|Medium|
 |342|[power-of-four](https://leetcode.com/problems/power-of-four)||[:memo:](https://leetcode.com/articles/power-of-four/)|Easy|
 |343|[integer-break](https://leetcode.com/problems/integer-break)|||Medium|
-|344|[reverse-string](https://leetcode.com/problems/reverse-string)|[Golang](https://github.com/agermain/Leetcode/blob/master/solutions/344-reverse-string/reverse-string.go) [Java](https://github.com/agermain/Leetcode/blob/master/solutions/344-reverse-string/reverse-string.java)|[:memo:](https://leetcode.com/articles/reverse-string/)|Easy|
+|344|[reverse-string](https://leetcode.com/problems/reverse-string)|[Java](https://github.com/agermain/Leetcode/blob/master/solutions/344-reverse-string/reverse-string.java) [Golang](https://github.com/agermain/Leetcode/blob/master/solutions/344-reverse-string/reverse-string.go)|[:memo:](https://leetcode.com/articles/reverse-string/)|Easy|
 |345|[reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string)|||Easy|
 |346|[moving-average-from-data-stream](https://leetcode.com/problems/moving-average-from-data-stream)|:lock:|[:memo:](https://leetcode.com/articles/moving-average-from-data-stream/)|Easy|
 |347|[top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements)||[:memo:](https://leetcode.com/articles/top-k-frequent-elements/)|Medium|
@@ -712,7 +712,7 @@ I have solved **112** out of **1524** problems. If you have any suggestions, fee
 |780|[max-chunks-to-make-sorted](https://leetcode.com/problems/max-chunks-to-make-sorted)||[:memo:](https://leetcode.com/articles/max-chunks-to-make-sorted-i/)|Medium|
 |781|[basic-calculator-iv](https://leetcode.com/problems/basic-calculator-iv)||[:memo:](https://leetcode.com/articles/basic-calculator-iv/)|Hard|
 |782|[jewels-and-stones](https://leetcode.com/problems/jewels-and-stones)|[Golang](https://github.com/agermain/Leetcode/blob/master/solutions/782-jewels-and-stones/jewels-and-stones.go)|[:memo:](https://leetcode.com/articles/jewels-and-stones/)|Easy|
-|783|[search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[Java](https://github.com/agermain/Leetcode/blob/master/solutions/783-search-in-a-binary-search-tree/search-in-a-binary-search-tree.java)|[:memo:](https://leetcode.com/articles/search-in-a-bst/)|Easy|
+|783|[search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[Java](https://github.com/agermain/Leetcode/blob/master/solutions/783-search-in-a-binary-search-tree/search-in-a-binary-search-tree.java) [Golang](https://github.com/agermain/Leetcode/blob/master/solutions/783-search-in-a-binary-search-tree/search-in-a-binary-search-tree.go)|[:memo:](https://leetcode.com/articles/search-in-a-bst/)|Easy|
 |784|[insert-into-a-binary-search-tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)|[Java](https://github.com/agermain/Leetcode/blob/master/solutions/784-insert-into-a-binary-search-tree/insert-into-a-binary-search-tree.java)|[:memo:](https://leetcode.com/articles/insert-into-a-bst/)|Medium|
 |785|[basic-calculator-iii](https://leetcode.com/problems/basic-calculator-iii)|:lock:||Hard|
 |786|[search-in-a-sorted-array-of-unknown-size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size)|:lock:|[:memo:](https://leetcode.com/articles/search-in-a-sorted-array-of-unknown-size/)|Medium|
@@ -855,7 +855,7 @@ I have solved **112** out of **1524** problems. If you have any suggestions, fee
 |930|[all-possible-full-binary-trees](https://leetcode.com/problems/all-possible-full-binary-trees)||[:memo:](https://leetcode.com/articles/all-possible-full-binary-trees/)|Medium|
 |931|[maximum-frequency-stack](https://leetcode.com/problems/maximum-frequency-stack)||[:memo:](https://leetcode.com/articles/maximum-frequency-stack/)|Hard|
 |932|[monotonic-array](https://leetcode.com/problems/monotonic-array)||[:memo:](https://leetcode.com/articles/monotonic-array/)|Easy|
-|933|[increasing-order-search-tree](https://leetcode.com/problems/increasing-order-search-tree)||[:memo:](https://leetcode.com/articles/increasing-order-search-tree/)|Easy|
+|933|[increasing-order-search-tree](https://leetcode.com/problems/increasing-order-search-tree)|[Golang](https://github.com/agermain/Leetcode/blob/master/solutions/933-increasing-order-search-tree/increasing-order-search-tree.go)|[:memo:](https://leetcode.com/articles/increasing-order-search-tree/)|Easy|
 |934|[bitwise-ors-of-subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays)||[:memo:](https://leetcode.com/articles/bitwise-ors-of-subarrays/)|Medium|
 |935|[orderly-queue](https://leetcode.com/problems/orderly-queue)||[:memo:](https://leetcode.com/articles/orderly-queue/)|Hard|
 |936|[rle-iterator](https://leetcode.com/problems/rle-iterator)||[:memo:](https://leetcode.com/articles/rle-iterator/)|Medium|
@@ -1219,7 +1219,7 @@ I have solved **112** out of **1524** problems. If you have any suggestions, fee
 |1391|[counting-elements](https://leetcode.com/problems/counting-elements)|:lock:|[:memo:](https://leetcode.com/articles/counting-elements/)|Easy|
 |1395|[minimum-time-visiting-all-points](https://leetcode.com/problems/minimum-time-visiting-all-points)|||Easy|
 |1396|[count-servers-that-communicate](https://leetcode.com/problems/count-servers-that-communicate)|||Medium|
-|1397|[search-suggestions-system](https://leetcode.com/problems/search-suggestions-system)|||Medium|
+|1397|[search-suggestions-system](https://leetcode.com/problems/search-suggestions-system)||[:memo:](https://leetcode.com/articles/search-suggestions-system/)|Medium|
 |1398|[number-of-ways-to-stay-in-the-same-place-after-some-steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps)|||Hard|
 |1400|[find-winner-on-a-tic-tac-toe-game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game)|||Easy|
 |1401|[number-of-burgers-with-no-waste-of-ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients)|||Medium|
@@ -1368,7 +1368,7 @@ I have solved **112** out of **1524** problems. If you have any suggestions, fee
 |1582|[design-browser-history](https://leetcode.com/problems/design-browser-history)|||Medium|
 |1583|[paint-house-iii](https://leetcode.com/problems/paint-house-iii)|||Hard|
 |1584|[average-salary-excluding-the-minimum-and-maximum-salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary)|||Easy|
-|1585|[the-kth-factor-of-n](https://leetcode.com/problems/the-kth-factor-of-n)||[:memo:](https://leetcode.com/articles/the-kth-factor-of-n/)|Medium|
+|1585|[the-kth-factor-of-n](https://leetcode.com/problems/the-kth-factor-of-n)|[Golang](https://github.com/agermain/Leetcode/blob/master/solutions/1585-the-kth-factor-of-n/the-kth-factor-of-n.go)|[:memo:](https://leetcode.com/articles/the-kth-factor-of-n/)|Medium|
 |1586|[longest-subarray-of-1s-after-deleting-one-element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)|||Medium|
 |1587|[parallel-courses-ii](https://leetcode.com/problems/parallel-courses-ii)|||Hard|
 |1603|[running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array)|||Easy|
@@ -1376,7 +1376,7 @@ I have solved **112** out of **1524** problems. If you have any suggestions, fee
 |1605|[minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets)|||Medium|
 |1609|[find-all-the-lonely-nodes](https://leetcode.com/problems/find-all-the-lonely-nodes)|:lock:||Easy|
 |1610|[xor-operation-in-an-array](https://leetcode.com/problems/xor-operation-in-an-array)|||Easy|
-|1611|[making-file-names-unique](https://leetcode.com/problems/making-file-names-unique)|||Medium|
+|1611|[making-file-names-unique](https://leetcode.com/problems/making-file-names-unique)|[Golang](https://github.com/agermain/Leetcode/blob/master/solutions/1611-making-file-names-unique/making-file-names-unique.go)||Medium|
 |1612|[avoid-flood-in-the-city](https://leetcode.com/problems/avoid-flood-in-the-city)|||Medium|
 |1613|[find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)|||Hard|
 |1615|[range-sum-of-sorted-subarray-sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums)|||Medium|
@@ -1464,7 +1464,7 @@ I have solved **112** out of **1524** problems. If you have any suggestions, fee
 |1709|[alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period)|||Medium|
 |1710|[find-servers-that-handled-most-number-of-requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests)|||Hard|
 |1711|[find-valid-matrix-given-row-and-column-sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums)|||Medium|
-|1713|[dot-product-of-two-sparse-vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)|:lock:||Medium|
+|1713|[dot-product-of-two-sparse-vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)|:lock:|[:memo:](https://leetcode.com/articles/dot-product-of-two-sparse-vectors/)|Medium|
 |1714|[rearrange-spaces-between-words](https://leetcode.com/problems/rearrange-spaces-between-words)|||Easy|
 |1715|[split-a-string-into-the-max-number-of-unique-substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings)|||Medium|
 |1716|[maximum-non-negative-product-in-a-matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix)|||Medium|
@@ -1526,9 +1526,10 @@ I have solved **112** out of **1524** problems. If you have any suggestions, fee
 |1783|[ways-to-make-a-fair-array](https://leetcode.com/problems/ways-to-make-a-fair-array)|||Medium|
 |1784|[minimum-initial-energy-to-finish-tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks)|||Hard|
 |1790|[lowest-common-ancestor-of-a-binary-tree-iii](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)|:lock:||Medium|
-|1791|[richest-customer-wealth](https://leetcode.com/problems/richest-customer-wealth)|||Easy|
+|1791|[richest-customer-wealth](https://leetcode.com/problems/richest-customer-wealth)|[Golang](https://github.com/agermain/Leetcode/blob/master/solutions/1791-richest-customer-wealth/richest-customer-wealth.go)||Easy|
 |1792|[find-the-most-competitive-subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence)||[:memo:](https://leetcode.com/articles/find-the-most-competitive-subsequence/)|Medium|
 |1793|[minimum-moves-to-make-array-complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary)|||Medium|
 |1794|[minimize-deviation-in-array](https://leetcode.com/problems/minimize-deviation-in-array)||[:memo:](https://leetcode.com/articles/minimize-deviation-in-array/)|Hard|
 |1796|[correct-a-binary-tree](https://leetcode.com/problems/correct-a-binary-tree)|:lock:||Medium|
 |1810|[change-the-root-of-a-binary-tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree)|:lock:||Medium|
+|1816|[lowest-common-ancestor-of-a-binary-tree-iv](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv)|:lock:||Medium|
