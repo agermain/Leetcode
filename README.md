@@ -1,10 +1,10 @@
 # Leetcode Solutions with Golang, Java, Python3
 
-[![LeetCode](https://img.shields.io/badge/agermain-116-green.svg)](https://leetcode.com/agermain/)
+[![LeetCode](https://img.shields.io/badge/solved-117-green.svg)]
 
-Last updated:  2020-12-04 13:11:18
+Last updated:  2020-12-05 11:32:48
 
-I have solved **116** out of **1525** problems. If you have any suggestions, feedback is appreciated.
+I have solved **117** out of **1525** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -352,7 +352,7 @@ I have solved **116** out of **1525** problems. If you have any suggestions, fee
 |359|[logger-rate-limiter](https://leetcode.com/problems/logger-rate-limiter)|:lock:|[:memo:](https://leetcode.com/articles/logger-rate-limiter/)|Easy|
 |360|[sort-transformed-array](https://leetcode.com/problems/sort-transformed-array)|:lock:||Medium|
 |361|[bomb-enemy](https://leetcode.com/problems/bomb-enemy)|:lock:|[:memo:](https://leetcode.com/articles/bomb-enemy/)|Medium|
-|362|[design-hit-counter](https://leetcode.com/problems/design-hit-counter)|:lock:||Medium|
+|362|[design-hit-counter](https://leetcode.com/problems/design-hit-counter)|:lock:|[:memo:](https://leetcode.com/articles/design-hit-counter/)|Medium|
 |363|[max-sum-of-rectangle-no-larger-than-k](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k)|||Hard|
 |364|[nested-list-weight-sum-ii](https://leetcode.com/problems/nested-list-weight-sum-ii)|:lock:||Medium|
 |365|[water-and-jug-problem](https://leetcode.com/problems/water-and-jug-problem)|||Medium|
@@ -559,7 +559,7 @@ I have solved **116** out of **1525** problems. If you have any suggestions, fee
 |599|[minimum-index-sum-of-two-lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists)||[:memo:](https://leetcode.com/articles/minimum-index-sum-of-two-lists/)|Easy|
 |600|[non-negative-integers-without-consecutive-ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones)||[:memo:](https://leetcode.com/articles/non-negative-integers-without-consecutive-ones/)|Hard|
 |604|[design-compressed-string-iterator](https://leetcode.com/problems/design-compressed-string-iterator)|:lock:|[:memo:](https://leetcode.com/articles/design-compressed-string-iterator/)|Easy|
-|605|[can-place-flowers](https://leetcode.com/problems/can-place-flowers)||[:memo:](https://leetcode.com/articles/can-place-flowers/)|Easy|
+|605|[can-place-flowers](https://leetcode.com/problems/can-place-flowers)|[Golang](https://github.com/agermain/Leetcode/blob/master/solutions/605-can-place-flowers/can-place-flowers.go)|[:memo:](https://leetcode.com/articles/can-place-flowers/)|Easy|
 |606|[construct-string-from-binary-tree](https://leetcode.com/problems/construct-string-from-binary-tree)||[:memo:](https://leetcode.com/articles/construct-string-from-binary-tree/)|Easy|
 |609|[find-duplicate-file-in-system](https://leetcode.com/problems/find-duplicate-file-in-system)||[:memo:](https://leetcode.com/articles/find-duplicate-file-in-system/)|Medium|
 |611|[valid-triangle-number](https://leetcode.com/problems/valid-triangle-number)||[:memo:](https://leetcode.com/articles/valid-triangle-number/)|Medium|
