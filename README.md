@@ -1,10 +1,10 @@
 # Leetcode Solutions with Golang, Java, Python3
 
-[![LeetCode](https://img.shields.io/badge/solved-117-green.svg)]
+![LeetCode](https://img.shields.io/badge/solved-118-green.svg)
 
-Last updated:  2020-12-05 11:32:48
+Last updated:  2020-12-06 17:52:33
 
-I have solved **117** out of **1525** problems. If you have any suggestions, feedback is appreciated.
+I have solved **118** out of **1529** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -124,7 +124,7 @@ I have solved **117** out of **1525** problems. If you have any suggestions, fee
 |114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)||[:memo:](https://leetcode.com/articles/flatten-binary-tree-to-linked-list/)|Medium|
 |115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)||[:memo:](https://leetcode.com/articles/distinct-subsequences/)|Hard|
 |116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)||[:memo:](https://leetcode.com/articles/populating-next-right-pointers-in-each-node/)|Medium|
-|117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)||[:memo:](https://leetcode.com/articles/populating-next-right-pointers-in-each-node-ii/)|Medium|
+|117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|[Python3](https://github.com/agermain/Leetcode/blob/master/solutions/117-populating-next-right-pointers-in-each-node-ii/populating-next-right-pointers-in-each-node-ii.py)|[:memo:](https://leetcode.com/articles/populating-next-right-pointers-in-each-node-ii/)|Medium|
 |118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)||[:memo:](https://leetcode.com/articles/pascals-triangle/)|Easy|
 |119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)||[:memo:](https://leetcode.com/articles/pascals-triangle-ii/)|Easy|
 |120|[triangle](https://leetcode.com/problems/triangle)|||Medium|
@@ -1079,7 +1079,7 @@ I have solved **117** out of **1525** problems. If you have any suggestions, fee
 |1170|[shortest-common-supersequence](https://leetcode.com/problems/shortest-common-supersequence)|||Hard|
 |1171|[shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)||[:memo:](https://leetcode.com/articles/shortest-path-in-a-binary-matrix/)|Medium|
 |1175|[array-transformation](https://leetcode.com/problems/array-transformation)|:lock:||Easy|
-|1176|[design-a-leaderboard](https://leetcode.com/problems/design-a-leaderboard)|:lock:||Medium|
+|1176|[design-a-leaderboard](https://leetcode.com/problems/design-a-leaderboard)|:lock:|[:memo:](https://leetcode.com/articles/design-a-leaderboard/)|Medium|
 |1177|[tree-diameter](https://leetcode.com/problems/tree-diameter)|:lock:||Medium|
 |1178|[valid-palindrome-iii](https://leetcode.com/problems/valid-palindrome-iii)|:lock:||Hard|
 |1183|[statistics-from-a-large-sample](https://leetcode.com/problems/statistics-from-a-large-sample)|||Medium|
@@ -1531,5 +1531,9 @@ I have solved **117** out of **1525** problems. If you have any suggestions, fee
 |1793|[minimum-moves-to-make-array-complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary)|||Medium|
 |1794|[minimize-deviation-in-array](https://leetcode.com/problems/minimize-deviation-in-array)||[:memo:](https://leetcode.com/articles/minimize-deviation-in-array/)|Hard|
 |1796|[correct-a-binary-tree](https://leetcode.com/problems/correct-a-binary-tree)|:lock:||Medium|
+|1797|[goal-parser-interpretation](https://leetcode.com/problems/goal-parser-interpretation)|||Easy|
+|1798|[max-number-of-k-sum-pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs)||[:memo:](https://leetcode.com/articles/max-number-of-k-sum-pairs/)|Medium|
+|1799|[minimum-incompatibility](https://leetcode.com/problems/minimum-incompatibility)|||Hard|
+|1800|[concatenation-of-consecutive-binary-numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers)||[:memo:](https://leetcode.com/articles/concatenation-of-consecutive-binary-numbers/)|Medium|
 |1810|[change-the-root-of-a-binary-tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree)|:lock:||Medium|
 |1816|[lowest-common-ancestor-of-a-binary-tree-iv](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv)|:lock:||Medium|
