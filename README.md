@@ -1,10 +1,10 @@
 # Leetcode Solutions with Golang, Java, Python3
 
-![LeetCode](https://img.shields.io/badge/solved-122-green.svg)
+![LeetCode](https://img.shields.io/badge/solved-124-green.svg)
 
-Last updated:  2020-12-07 23:34:10
+Last updated:  2020-12-08 20:24:50
 
-I have solved **122** out of **1529** problems. If you have any suggestions, feedback is appreciated.
+I have solved **124** out of **1529** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -972,7 +972,7 @@ I have solved **122** out of **1529** problems. If you have any suggestions, fee
 |1052|[campus-bikes](https://leetcode.com/problems/campus-bikes)|:lock:||Medium|
 |1053|[minimize-rounding-error-to-meet-target](https://leetcode.com/problems/minimize-rounding-error-to-meet-target)|:lock:||Medium|
 |1054|[complement-of-base-10-integer](https://leetcode.com/problems/complement-of-base-10-integer)|[Golang](https://github.com/agermain/Leetcode/blob/master/solutions/1054-complement-of-base-10-integer/complement-of-base-10-integer.go)|[:memo:](https://leetcode.com/articles/complement-of-base-10-integer/)|Easy|
-|1055|[pairs-of-songs-with-total-durations-divisible-by-60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)||[:memo:](https://leetcode.com/articles/pairs-of-songs-with-total-durations-divisible-by-60/)|Medium|
+|1055|[pairs-of-songs-with-total-durations-divisible-by-60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)|[Golang](https://github.com/agermain/Leetcode/blob/master/solutions/1055-pairs-of-songs-with-total-durations-divisible-by-60/pairs-of-songs-with-total-durations-divisible-by-60.go)|[:memo:](https://leetcode.com/articles/pairs-of-songs-with-total-durations-divisible-by-60/)|Medium|
 |1056|[capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|||Medium|
 |1057|[numbers-with-repeated-digits](https://leetcode.com/problems/numbers-with-repeated-digits)|||Hard|
 |1058|[lexicographically-smallest-equivalent-string](https://leetcode.com/problems/lexicographically-smallest-equivalent-string)|:lock:||Medium|
@@ -1080,7 +1080,7 @@ I have solved **122** out of **1529** problems. If you have any suggestions, fee
 |1171|[shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)||[:memo:](https://leetcode.com/articles/shortest-path-in-a-binary-matrix/)|Medium|
 |1175|[array-transformation](https://leetcode.com/problems/array-transformation)|:lock:||Easy|
 |1176|[design-a-leaderboard](https://leetcode.com/problems/design-a-leaderboard)|:lock:|[:memo:](https://leetcode.com/articles/design-a-leaderboard/)|Medium|
-|1177|[tree-diameter](https://leetcode.com/problems/tree-diameter)|:lock:||Medium|
+|1177|[tree-diameter](https://leetcode.com/problems/tree-diameter)|:lock:|[:memo:](https://leetcode.com/articles/tree-diameter/)|Medium|
 |1178|[valid-palindrome-iii](https://leetcode.com/problems/valid-palindrome-iii)|:lock:||Hard|
 |1183|[statistics-from-a-large-sample](https://leetcode.com/problems/statistics-from-a-large-sample)|||Medium|
 |1184|[car-pooling](https://leetcode.com/problems/car-pooling)||[:memo:](https://leetcode.com/articles/car-pooling/)|Medium|
@@ -1371,7 +1371,7 @@ I have solved **122** out of **1529** problems. If you have any suggestions, fee
 |1585|[the-kth-factor-of-n](https://leetcode.com/problems/the-kth-factor-of-n)|[Golang](https://github.com/agermain/Leetcode/blob/master/solutions/1585-the-kth-factor-of-n/the-kth-factor-of-n.go)|[:memo:](https://leetcode.com/articles/the-kth-factor-of-n/)|Medium|
 |1586|[longest-subarray-of-1s-after-deleting-one-element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)|||Medium|
 |1587|[parallel-courses-ii](https://leetcode.com/problems/parallel-courses-ii)|||Hard|
-|1603|[running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array)|||Easy|
+|1603|[running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array)|[Golang](https://github.com/agermain/Leetcode/blob/master/solutions/1603-running-sum-of-1d-array/running-sum-of-1d-array.go)||Easy|
 |1604|[least-number-of-unique-integers-after-k-removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals)|||Medium|
 |1605|[minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets)|||Medium|
 |1609|[find-all-the-lonely-nodes](https://leetcode.com/problems/find-all-the-lonely-nodes)|:lock:||Easy|
