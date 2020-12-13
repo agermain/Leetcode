@@ -1,10 +1,10 @@
 # Leetcode Solutions with Golang, Java, Python3
 
-![LeetCode](https://img.shields.io/badge/solved-130-green.svg)
+![LeetCode](https://img.shields.io/badge/solved-132-green.svg)
 
-Last updated:  2020-12-12 17:18:48
+Last updated:  2020-12-13 21:58:58
 
-I have solved **130** out of **1534** problems. If you have any suggestions, feedback is appreciated.
+I have solved **132** out of **1538** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -302,7 +302,7 @@ I have solved **130** out of **1534** problems. If you have any suggestions, fee
 |309|[best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-with-cooldown/)|Medium|
 |310|[minimum-height-trees](https://leetcode.com/problems/minimum-height-trees)||[:memo:](https://leetcode.com/articles/minimum-height-trees/)|Medium|
 |311|[sparse-matrix-multiplication](https://leetcode.com/problems/sparse-matrix-multiplication)|:lock:||Medium|
-|312|[burst-balloons](https://leetcode.com/problems/burst-balloons)||[:memo:](https://leetcode.com/articles/burst-balloons/)|Hard|
+|312|[burst-balloons](https://leetcode.com/problems/burst-balloons)|[Python3](https://github.com/agermain/Leetcode/blob/master/solutions/312-burst-balloons/burst-balloons.py)|[:memo:](https://leetcode.com/articles/burst-balloons/)|Hard|
 |313|[super-ugly-number](https://leetcode.com/problems/super-ugly-number)|||Medium|
 |314|[binary-tree-vertical-order-traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal)|:lock:|[:memo:](https://leetcode.com/articles/binary-tree-vertical-order-traversal/)|Medium|
 |315|[count-of-smaller-numbers-after-self](https://leetcode.com/problems/count-of-smaller-numbers-after-self)|||Hard|
@@ -1202,6 +1202,7 @@ I have solved **130** out of **1534** problems. If you have any suggestions, fee
 |1361|[tiling-a-rectangle-with-the-fewest-squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares)|||Hard|
 |1362|[airplane-seat-assignment-probability](https://leetcode.com/problems/airplane-seat-assignment-probability)|||Medium|
 |1366|[first-unique-number](https://leetcode.com/problems/first-unique-number)|:lock:|[:memo:](https://leetcode.com/articles/first-unique-number/)|Medium|
+|1367|[maximum-height-by-stacking-cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids)|||Hard|
 |1369|[minimum-swaps-to-make-strings-equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal)|||Medium|
 |1370|[count-number-of-nice-subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays)|||Medium|
 |1371|[minimum-remove-to-make-valid-parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)||[:memo:](https://leetcode.com/articles/minimum-remove-to-make-valid-parentheses/)|Medium|
@@ -1320,7 +1321,7 @@ I have solved **130** out of **1534** problems. If you have any suggestions, fee
 |1525|[queries-on-a-permutation-with-key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|||Medium|
 |1526|[html-entity-parser](https://leetcode.com/problems/html-entity-parser)|||Medium|
 |1527|[number-of-ways-to-paint-n-3-grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid)|||Hard|
-|1528|[kids-with-the-greatest-number-of-candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)|||Easy|
+|1528|[kids-with-the-greatest-number-of-candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)|[Python3](https://github.com/agermain/Leetcode/blob/master/solutions/1528-kids-with-the-greatest-number-of-candies/kids-with-the-greatest-number-of-candies.py) [Golang](https://github.com/agermain/Leetcode/blob/master/solutions/1528-kids-with-the-greatest-number-of-candies/kids-with-the-greatest-number-of-candies.go)||Easy|
 |1529|[max-difference-you-can-get-from-changing-an-integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer)|||Medium|
 |1530|[check-if-a-string-can-break-another-string](https://leetcode.com/problems/check-if-a-string-can-break-another-string)|||Medium|
 |1531|[number-of-ways-to-wear-different-hats-to-each-other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other)|||Hard|
@@ -1539,6 +1540,9 @@ I have solved **130** out of **1534** problems. If you have any suggestions, fee
 |1798|[max-number-of-k-sum-pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs)||[:memo:](https://leetcode.com/articles/max-number-of-k-sum-pairs/)|Medium|
 |1799|[minimum-incompatibility](https://leetcode.com/problems/minimum-incompatibility)|||Hard|
 |1800|[concatenation-of-consecutive-binary-numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers)||[:memo:](https://leetcode.com/articles/concatenation-of-consecutive-binary-numbers/)|Medium|
+|1806|[count-of-matches-in-tournament](https://leetcode.com/problems/count-of-matches-in-tournament)|||Easy|
+|1807|[partitioning-into-minimum-number-of-deci-binary-numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers)||[:memo:](https://leetcode.com/articles/partitioning-into-minimum-number-of-deci-binary-numbers/)|Medium|
+|1808|[stone-game-vii](https://leetcode.com/problems/stone-game-vii)||[:memo:](https://leetcode.com/articles/stone-game-vii/)|Medium|
 |1810|[change-the-root-of-a-binary-tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree)|:lock:||Medium|
 |1816|[lowest-common-ancestor-of-a-binary-tree-iv](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv)|:lock:||Medium|
 |1822|[longest-palindromic-subsequence-ii](https://leetcode.com/problems/longest-palindromic-subsequence-ii)|:lock:||Medium|
