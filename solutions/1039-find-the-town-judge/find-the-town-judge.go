@@ -40,7 +40,6 @@
 // 	trust[i][0] != trust[i][1]
 // 	1 <= trust[i][0], trust[i][1] <= N
 //
-//
 
 
 func findJudge(N int, trust [][]int) int {

@@ -28,10 +28,10 @@
 //
 
 
-func sortedSquares(A []int) []int {
-    for i:=0; i<len(A); i++ {
-        A[i] *= A[i] 
+func sortedSquares(nums []int) []int {
+    for idx, val := range nums {
+        nums[idx] = val*val
     }
-    sort.Ints(A)
-    return A
+    sort.Ints(nums)
+    return nums
 }
