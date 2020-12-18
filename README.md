@@ -1,10 +1,10 @@
 # Leetcode Solutions with Golang, Java, Python3
 
-![LeetCode](https://img.shields.io/badge/solved-138-green.svg)
+![LeetCode](https://img.shields.io/badge/solved-139-green.svg)
 
-Last updated:  2020-12-17 23:14:13
+Last updated:  2020-12-18 23:08:23
 
-I have solved **138** out of **1539** problems. If you have any suggestions, feedback is appreciated.
+I have solved **139** out of **1539** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -324,7 +324,7 @@ I have solved **138** out of **1539** problems. If you have any suggestions, fee
 |331|[verify-preorder-serialization-of-a-binary-tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/verify-preorder-serialization-of-a-binary-tree/)|Medium|
 |332|[reconstruct-itinerary](https://leetcode.com/problems/reconstruct-itinerary)||[:memo:](https://leetcode.com/articles/reconstruct-itinerary/)|Medium|
 |333|[largest-bst-subtree](https://leetcode.com/problems/largest-bst-subtree)|:lock:||Medium|
-|334|[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)||[:memo:](https://leetcode.com/articles/increasing-triplet-subsequence/)|Medium|
+|334|[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)|[Python3](https://github.com/agermain/Leetcode/blob/master/solutions/334-increasing-triplet-subsequence/increasing-triplet-subsequence.py)|[:memo:](https://leetcode.com/articles/increasing-triplet-subsequence/)|Medium|
 |335|[self-crossing](https://leetcode.com/problems/self-crossing)|||Hard|
 |336|[palindrome-pairs](https://leetcode.com/problems/palindrome-pairs)||[:memo:](https://leetcode.com/articles/palindrome-pairs/)|Hard|
 |337|[house-robber-iii](https://leetcode.com/problems/house-robber-iii)||[:memo:](https://leetcode.com/articles/house-robber-iii/)|Medium|
