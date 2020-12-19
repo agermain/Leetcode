@@ -1,10 +1,10 @@
 # Leetcode Solutions with Golang, Java, Python3
 
-![LeetCode](https://img.shields.io/badge/solved-139-green.svg)
+![LeetCode](https://img.shields.io/badge/solved-140-green.svg)
 
-Last updated:  2020-12-18 23:08:23
+Last updated:  2020-12-19 23:12:49
 
-I have solved **139** out of **1539** problems. If you have any suggestions, feedback is appreciated.
+I have solved **140** out of **1539** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -1347,7 +1347,7 @@ I have solved **139** out of **1539** problems. If you have any suggestions, fee
 |1556|[make-two-arrays-equal-by-reversing-sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays)|[Python3](https://github.com/agermain/Leetcode/blob/master/solutions/1556-make-two-arrays-equal-by-reversing-sub-arrays/make-two-arrays-equal-by-reversing-sub-arrays.py)||Easy|
 |1557|[check-if-a-string-contains-all-binary-codes-of-size-k](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k)||[:memo:](https://leetcode.com/articles/check-if-a-string-contains-all-binary-codes-of-size-k/)|Medium|
 |1558|[course-schedule-iv](https://leetcode.com/problems/course-schedule-iv)|||Medium|
-|1559|[cherry-pickup-ii](https://leetcode.com/problems/cherry-pickup-ii)||[:memo:](https://leetcode.com/articles/cherry-pickup-ii/)|Hard|
+|1559|[cherry-pickup-ii](https://leetcode.com/problems/cherry-pickup-ii)|[Python3](https://github.com/agermain/Leetcode/blob/master/solutions/1559-cherry-pickup-ii/cherry-pickup-ii.py)|[:memo:](https://leetcode.com/articles/cherry-pickup-ii/)|Hard|
 |1560|[number-of-students-doing-homework-at-a-given-time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)|||Easy|
 |1561|[rearrange-words-in-a-sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence)|||Medium|
 |1562|[people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list)|||Medium|
