@@ -1,10 +1,10 @@
 # Leetcode Solutions with Golang, Java, Python3
 
-![LeetCode](https://img.shields.io/badge/solved-140-green.svg)
+![LeetCode](https://img.shields.io/badge/solved-141-green.svg)
 
-Last updated:  2020-12-19 23:12:49
+Last updated:  2020-12-21 10:59:33
 
-I have solved **140** out of **1539** problems. If you have any suggestions, feedback is appreciated.
+I have solved **141** out of **1543** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -47,7 +47,7 @@ I have solved **140** out of **1539** problems. If you have any suggestions, fee
 |37|[sudoku-solver](https://leetcode.com/problems/sudoku-solver)||[:memo:](https://leetcode.com/articles/sudoku-solver/)|Hard|
 |38|[count-and-say](https://leetcode.com/problems/count-and-say)||[:memo:](https://leetcode.com/articles/count-and-say/)|Easy|
 |39|[combination-sum](https://leetcode.com/problems/combination-sum)||[:memo:](https://leetcode.com/articles/combination-sum/)|Medium|
-|40|[combination-sum-ii](https://leetcode.com/problems/combination-sum-ii)|||Medium|
+|40|[combination-sum-ii](https://leetcode.com/problems/combination-sum-ii)||[:memo:](https://leetcode.com/articles/combination-sum-ii/)|Medium|
 |41|[first-missing-positive](https://leetcode.com/problems/first-missing-positive)||[:memo:](https://leetcode.com/articles/first-missing-positive/)|Hard|
 |42|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water)||[:memo:](https://leetcode.com/articles/trapping-rain-water/)|Hard|
 |43|[multiply-strings](https://leetcode.com/problems/multiply-strings)|||Medium|
@@ -838,7 +838,7 @@ I have solved **140** out of **1539** problems. If you have any suggestions, fee
 |913|[random-flip-matrix](https://leetcode.com/problems/random-flip-matrix)||[:memo:](https://leetcode.com/articles/random-flip-matrix/)|Medium|
 |914|[random-point-in-non-overlapping-rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles)||[:memo:](https://leetcode.com/articles/random-point-in-non-overlapping-rectangles/)|Medium|
 |915|[generate-random-point-in-a-circle](https://leetcode.com/problems/generate-random-point-in-a-circle)||[:memo:](https://leetcode.com/articles/generate-random-point-in-a-circle/)|Medium|
-|916|[decoded-string-at-index](https://leetcode.com/problems/decoded-string-at-index)||[:memo:](https://leetcode.com/articles/decoded-string-at-index/)|Medium|
+|916|[decoded-string-at-index](https://leetcode.com/problems/decoded-string-at-index)|[Python3](https://github.com/agermain/Leetcode/blob/master/solutions/916-decoded-string-at-index/decoded-string-at-index.py)|[:memo:](https://leetcode.com/articles/decoded-string-at-index/)|Medium|
 |917|[boats-to-save-people](https://leetcode.com/problems/boats-to-save-people)||[:memo:](https://leetcode.com/articles/boats-to-save-people/)|Medium|
 |918|[reachable-nodes-in-subdivided-graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph)||[:memo:](https://leetcode.com/articles/reachable-nodes-in-subdivided-graph/)|Hard|
 |919|[projection-area-of-3d-shapes](https://leetcode.com/problems/projection-area-of-3d-shapes)||[:memo:](https://leetcode.com/articles/projection-area-of-3d-shapes/)|Easy|
@@ -1046,7 +1046,7 @@ I have solved **140** out of **1539** problems. If you have any suggestions, fee
 |1128|[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Java](https://github.com/agermain/Leetcode/blob/master/solutions/1128-remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.java)|[:memo:](https://leetcode.com/articles/remove-all-adjacent-duplicates-in-string/)|Easy|
 |1129|[longest-string-chain](https://leetcode.com/problems/longest-string-chain)|||Medium|
 |1130|[last-stone-weight-ii](https://leetcode.com/problems/last-stone-weight-ii)|||Medium|
-|1131|[count-substrings-with-only-one-distinct-letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter)|:lock:||Easy|
+|1131|[count-substrings-with-only-one-distinct-letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter)|:lock:|[:memo:](https://leetcode.com/articles/count-substrings-with-only-one-distinct-letter/)|Easy|
 |1132|[before-and-after-puzzle](https://leetcode.com/problems/before-and-after-puzzle)|:lock:||Medium|
 |1133|[last-substring-in-lexicographical-order](https://leetcode.com/problems/last-substring-in-lexicographical-order)|||Hard|
 |1134|[shortest-distance-to-target-color](https://leetcode.com/problems/shortest-distance-to-target-color)|:lock:||Medium|
@@ -1544,6 +1544,10 @@ I have solved **140** out of **1539** problems. If you have any suggestions, fee
 |1807|[partitioning-into-minimum-number-of-deci-binary-numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers)||[:memo:](https://leetcode.com/articles/partitioning-into-minimum-number-of-deci-binary-numbers/)|Medium|
 |1808|[stone-game-vii](https://leetcode.com/problems/stone-game-vii)||[:memo:](https://leetcode.com/articles/stone-game-vii/)|Medium|
 |1810|[change-the-root-of-a-binary-tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree)|:lock:||Medium|
+|1812|[reformat-phone-number](https://leetcode.com/problems/reformat-phone-number)|||Easy|
+|1813|[maximum-erasure-value](https://leetcode.com/problems/maximum-erasure-value)||[:memo:](https://leetcode.com/articles/maximum-erasure-value/)|Medium|
+|1814|[jump-game-vi](https://leetcode.com/problems/jump-game-vi)||[:memo:](https://leetcode.com/articles/jump-game-vi/)|Medium|
+|1815|[checking-existence-of-edge-length-limited-paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths)|||Hard|
 |1816|[lowest-common-ancestor-of-a-binary-tree-iv](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv)|:lock:||Medium|
 |1822|[longest-palindromic-subsequence-ii](https://leetcode.com/problems/longest-palindromic-subsequence-ii)|:lock:||Medium|
 |1828|[count-ways-to-distribute-candies](https://leetcode.com/problems/count-ways-to-distribute-candies)|:lock:||Hard|
