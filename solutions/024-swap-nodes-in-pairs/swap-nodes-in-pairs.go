@@ -31,7 +31,6 @@
 // 	The number of nodes in the list is in the range [0, 100].
 // 	0 <= Node.val <= 100
 //
-//
 
 
 /**
@@ -45,11 +44,12 @@ func swapPairs(head *ListNode) *ListNode {
 	if head == nil || head.Next == nil {
 		return head
 	}
-    // We swap the first two, and will use this head 
-    // to append the rest to it and return it
+	// We swap the first two, and will use this head
+	// to append the rest to it and return it
 	newHead := head.Next
 	head.Next = swapPairs(head.Next.Next)
-    // Append the recursive'd list to the head
+	// Append the recursive'd list to the head
 	newHead.Next = head
 	return newHead
 }
+

@@ -1,10 +1,10 @@
 # Leetcode Solutions with Golang, Java, Python3
 
-![LeetCode](https://img.shields.io/badge/solved-153-green.svg)
+![LeetCode](https://img.shields.io/badge/solved-154-green.svg)
 
-Last updated:  2020-12-23 23:26:01
+Last updated:  2020-12-24 23:41:47
 
-I have solved **153** out of **1543** problems. If you have any suggestions, feedback is appreciated.
+I have solved **154** out of **1544** problems. If you have any suggestions, feedback is appreciated.
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -330,7 +330,7 @@ I have solved **153** out of **1543** problems. If you have any suggestions, fee
 |337|[house-robber-iii](https://leetcode.com/problems/house-robber-iii)||[:memo:](https://leetcode.com/articles/house-robber-iii/)|Medium|
 |338|[counting-bits](https://leetcode.com/problems/counting-bits)||[:memo:](https://leetcode.com/articles/counting-bits/)|Medium|
 |339|[nested-list-weight-sum](https://leetcode.com/problems/nested-list-weight-sum)|:lock:|[:memo:](https://leetcode.com/articles/nested-list-weight-sum/)|Easy|
-|340|[longest-substring-with-at-most-k-distinct-characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|:lock:|[:memo:](https://leetcode.com/articles/longest-substring-with-at-most-k-distinct-characters/)|Hard|
+|340|[longest-substring-with-at-most-k-distinct-characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|:lock:|[:memo:](https://leetcode.com/articles/longest-substring-with-at-most-k-distinct-characters/)|Medium|
 |341|[flatten-nested-list-iterator](https://leetcode.com/problems/flatten-nested-list-iterator)||[:memo:](https://leetcode.com/articles/flatten-nested-iterator/)|Medium|
 |342|[power-of-four](https://leetcode.com/problems/power-of-four)||[:memo:](https://leetcode.com/articles/power-of-four/)|Easy|
 |343|[integer-break](https://leetcode.com/problems/integer-break)|||Medium|
@@ -367,7 +367,7 @@ I have solved **153** out of **1543** problems. If you have any suggestions, fee
 |374|[guess-number-higher-or-lower](https://leetcode.com/problems/guess-number-higher-or-lower)||[:memo:](https://leetcode.com/articles/guess-number-higher-or-lower/)|Easy|
 |375|[guess-number-higher-or-lower-ii](https://leetcode.com/problems/guess-number-higher-or-lower-ii)||[:memo:](https://leetcode.com/articles/guess-higher-or-lower-number-ii/)|Medium|
 |376|[wiggle-subsequence](https://leetcode.com/problems/wiggle-subsequence)||[:memo:](https://leetcode.com/articles/wiggle-subsequence/)|Medium|
-|377|[combination-sum-iv](https://leetcode.com/problems/combination-sum-iv)|||Medium|
+|377|[combination-sum-iv](https://leetcode.com/problems/combination-sum-iv)||[:memo:](https://leetcode.com/articles/combination-sum-iv/)|Medium|
 |378|[kth-smallest-element-in-a-sorted-matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)||[:memo:](https://leetcode.com/articles/kth-smallest-element-in-a-sorted-matrix/)|Medium|
 |379|[design-phone-directory](https://leetcode.com/problems/design-phone-directory)|:lock:||Medium|
 |380|[insert-delete-getrandom-o1](https://leetcode.com/problems/insert-delete-getrandom-o1)||[:memo:](https://leetcode.com/articles/insert-delete-getrandom-o1/)|Medium|
@@ -1296,7 +1296,7 @@ I have solved **153** out of **1543** problems. If you have any suggestions, fee
 |1492|[time-needed-to-inform-all-employees](https://leetcode.com/problems/time-needed-to-inform-all-employees)|||Medium|
 |1493|[frog-position-after-t-seconds](https://leetcode.com/problems/frog-position-after-t-seconds)|||Hard|
 |1496|[lucky-numbers-in-a-matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix)|||Easy|
-|1497|[design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation)|||Medium|
+|1497|[design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation)|[Golang](https://github.com/agermain/Leetcode/blob/master/solutions/1497-design-a-stack-with-increment-operation/design-a-stack-with-increment-operation.go)||Medium|
 |1498|[find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)||[:memo:](https://leetcode.com/articles/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|Medium|
 |1499|[maximum-performance-of-a-team](https://leetcode.com/problems/maximum-performance-of-a-team)|||Hard|
 |1500|[count-largest-group](https://leetcode.com/problems/count-largest-group)|||Easy|
@@ -1430,7 +1430,7 @@ I have solved **153** out of **1543** problems. If you have any suggestions, fee
 |1668|[find-longest-awesome-substring](https://leetcode.com/problems/find-longest-awesome-substring)|||Hard|
 |1669|[minimum-cost-to-cut-a-stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick)|||Hard|
 |1672|[find-the-index-of-the-large-integer](https://leetcode.com/problems/find-the-index-of-the-large-integer)|:lock:||Medium|
-|1674|[minimum-operations-to-make-array-equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal)|||Medium|
+|1674|[minimum-operations-to-make-array-equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal)||[:memo:](https://leetcode.com/articles/minimum-operations-to-make-array-equal/)|Medium|
 |1675|[magnetic-force-between-two-balls](https://leetcode.com/problems/magnetic-force-between-two-balls)|||Medium|
 |1676|[minimum-number-of-days-to-eat-n-oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges)|||Hard|
 |1677|[matrix-diagonal-sum](https://leetcode.com/problems/matrix-diagonal-sum)|||Easy|
@@ -1551,3 +1551,4 @@ I have solved **153** out of **1543** problems. If you have any suggestions, fee
 |1816|[lowest-common-ancestor-of-a-binary-tree-iv](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv)|:lock:||Medium|
 |1822|[longest-palindromic-subsequence-ii](https://leetcode.com/problems/longest-palindromic-subsequence-ii)|:lock:||Medium|
 |1828|[count-ways-to-distribute-candies](https://leetcode.com/problems/count-ways-to-distribute-candies)|:lock:||Hard|
+|1838|[number-of-distinct-substrings-in-a-string](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string)|:lock:||Hard|
