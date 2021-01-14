@@ -1,24 +1,42 @@
-# Given a List of words, return the words that can be typed using letters of alphabet on only one row's of American keyboard like the image below.
+# Given an array of strings words, return the words that can be typed using letters of the alphabet on only one row of American keyboard like the image below.
 #
-#  
-#
-#
-#  
-#
-# Example:
+# In the American keyboard:
 #
 #
-# Input: ["Hello", "Alaska", "Dad", "Peace"]
-# Output: ["Alaska", "Dad"]
+# 	the first row consists of the characters "qwertyuiop",
+# 	the second row consists of the characters "asdfghjkl", and
+# 	the third row consists of the characters "zxcvbnm".
 #
 #
 #  
+# Example 1:
 #
-# Note:
+#
+# Input: words = ["Hello","Alaska","Dad","Peace"]
+# Output: ["Alaska","Dad"]
 #
 #
-# 	You may use one character in the keyboard more than once.
-# 	You may assume the input string will only contain letters of alphabet.
+# Example 2:
+#
+#
+# Input: words = ["omk"]
+# Output: []
+#
+#
+# Example 3:
+#
+#
+# Input: words = ["adsdf","sfd"]
+# Output: ["adsdf","sfd"]
+#
+#
+#  
+# Constraints:
+#
+#
+# 	1 <= words.length <= 20
+# 	1 <= words[i].length <= 100
+# 	words[i] consists of English letters (both lowercase and uppercase). 
 #
 #
 

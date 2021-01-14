@@ -38,6 +38,8 @@
 // 	arr is guaranteed to be a mountain array.
 //
 //
+//  
+// Follow up: Finding the O(n) is straightforward, could you find an O(log(n)) solution?
 
 
 func peakIndexInMountainArray(A []int) int {

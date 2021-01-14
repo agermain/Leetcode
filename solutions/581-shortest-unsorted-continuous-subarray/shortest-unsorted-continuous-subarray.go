@@ -1,6 +1,6 @@
 // Given an integer array nums, you need to find one continuous subarray that if you only sort this subarray in ascending order, then the whole array will be sorted in ascending order.
 //
-// Return the shortest such subarray and output its length.
+// Return the shortest such subarray and output its length.
 //
 //  
 // Example 1:
@@ -33,6 +33,8 @@
 // 	-105 <= nums[i] <= 105
 //
 //
+//  
+// Follow up: Can you solve it in O(n) time complexity?
 
 
 import (
