@@ -28,27 +28,6 @@
 # Explanation: licensePlate only contains the letter 's'. All the words contain 's', but among these "pest", "stew", and "show" are shortest. The answer is "pest" because it is the word that appears earliest of the 3.
 #
 #
-# Example 3:
-#
-#
-# Input: licensePlate = "Ah71752", words = ["suggest","letter","of","husband","easy","education","drug","prevent","writer","old"]
-# Output: "husband"
-#
-#
-# Example 4:
-#
-#
-# Input: licensePlate = "OgEu755", words = ["enough","these","play","wide","wonder","box","arrive","money","tax","thus"]
-# Output: "enough"
-#
-#
-# Example 5:
-#
-#
-# Input: licensePlate = "iMSlpe4", words = ["claim","consumer","student","camera","public","never","wonder","simple","thought","use"]
-# Output: "simple"
-#
-#
 #  
 # Constraints:
 #

@@ -1,6 +1,6 @@
-# Given an array of integers arr, a lucky integer is an integer which has a frequency in the array equal to its value.
+# Given an array of integers arr, a lucky integer is an integer that has a frequency in the array equal to its value.
 #
-# Return a lucky integer in the array. If there are multiple lucky integers return the largest of them. If there is no lucky integer return -1.
+# Return the largest lucky integer in the array. If there is no lucky integer return -1.
 #
 #  
 # Example 1:
@@ -27,26 +27,13 @@
 # Explanation: There are no lucky numbers in the array.
 #
 #
-# Example 4:
-#
-#
-# Input: arr = [5]
-# Output: -1
-#
-#
-# Example 5:
-#
-#
-# Input: arr = [7,7,7,7,7,7,7]
-# Output: 7
-#
-#
 #  
 # Constraints:
 #
 #
 # 	1 <= arr.length <= 500
 # 	1 <= arr[i] <= 500
+#
 #
 
 

@@ -35,20 +35,6 @@
 // Output: 3
 //
 //
-// Example 3:
-//
-//
-// Input: s = "1+(2*3)/(2-1)"
-// Output: 1
-//
-//
-// Example 4:
-//
-//
-// Input: s = "1"
-// Output: 0
-//
-//
 //  
 // Constraints:
 //

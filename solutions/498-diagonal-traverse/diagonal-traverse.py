@@ -1,28 +1,30 @@
-# Given a matrix of M x N elements (M rows, N columns), return all elements of the matrix in diagonal order as shown in the below image.
+# Given an m x n matrix mat, return an array of all the elements of the array in a diagonal order.
 #
 #  
+# Example 1:
 #
-# Example:
+#
+# Input: mat = [[1,2,3],[4,5,6],[7,8,9]]
+# Output: [1,2,4,7,5,3,6,8,9]
 #
 #
-# Input:
-# [
-#  [ 1, 2, 3 ],
-#  [ 4, 5, 6 ],
-#  [ 7, 8, 9 ]
-# ]
+# Example 2:
 #
-# Output:  [1,2,4,7,5,3,6,8,9]
 #
-# Explanation:
-#
+# Input: mat = [[1,2],[3,4]]
+# Output: [1,2,3,4]
 #
 #
 #  
+# Constraints:
 #
-# Note:
 #
-# The total number of elements of the given matrix will not exceed 10,000.
+# 	m == mat.length
+# 	n == mat[i].length
+# 	1 <= m, n <= 104
+# 	1 <= m * n <= 104
+# 	-105 <= mat[i][j] <= 105
+#
 #
 
 

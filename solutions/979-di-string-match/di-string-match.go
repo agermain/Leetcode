@@ -1,45 +1,30 @@
-// Given a string S that only contains "I" (increase) or "D" (decrease), let N = S.length.
-//
-// Return any permutation A of [0, 1, ..., N] such that for all i = 0, ..., N-1:
+// A permutation perm of n + 1 integers of all the integers in the range [0, n] can be represented as a string s of length n where:
 //
 //
-// 	If S[i] == "I", then A[i] < A[i+1]
-// 	If S[i] == "D", then A[i] > A[i+1]
+// 	s[i] == 'I' if perm[i] < perm[i + 1], and
+// 	s[i] == 'D' if perm[i] > perm[i + 1].
 //
+//
+// Given a string s, reconstruct the permutation perm and return it. If there are multiple valid permutations perm, return any of them.
 //
 //  
-//
 // Example 1:
-//
-//
-// Input: "IDID"
+// Input: s = "IDID"
 // Output: [0,4,1,3,2]
-//
-//
-//
 // Example 2:
-//
-//
-// Input: "III"
+// Input: s = "III"
 // Output: [0,1,2,3]
-//
-//
-//
 // Example 3:
-//
-//
-// Input: "DDI"
+// Input: s = "DDI"
 // Output: [3,2,0,1]
 //
-//
-//
 //  
+// Constraints:
 //
-// Note:
 //
+// 	1 <= s.length <= 105
+// 	s[i] is either 'I' or 'D'.
 //
-// 	1 <= S.length <= 10000
-// 	S only contains characters "I" or "D".
 //
 
 

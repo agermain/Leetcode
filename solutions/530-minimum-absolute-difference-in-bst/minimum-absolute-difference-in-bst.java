@@ -1,31 +1,30 @@
-// Given a binary search tree with non-negative values, find the minimum absolute difference between values of any two nodes.
+// Given the root of a Binary Search Tree (BST), return the minimum absolute difference between the values of any two different nodes in the tree.
 //
-// Example:
+//  
+// Example 1:
 //
 //
-// Input:
+// Input: root = [4,2,6,1,3]
+// Output: 1
 //
-//    1
-//     \
-//      3
-//     /
-//    2
 //
-// Output:
-// 1
+// Example 2:
 //
-// Explanation:
-// The minimum absolute difference is 1, which is the difference between 2 and 1 (or between 2 and 3).
+//
+// Input: root = [1,0,48,null,null,12,49]
+// Output: 1
 //
 //
 //  
+// Constraints:
 //
-// Note:
+//
+// 	The number of nodes in the tree is in the range [2, 104].
+// 	0 <= Node.val <= 105
 //
 //
-// 	There are at least two nodes in this BST.
-// 	This question is the same as 783: https://leetcode.com/problems/minimum-distance-between-bst-nodes/
-//
+//  
+// Note: This question is the same as 783: https://leetcode.com/problems/minimum-distance-between-bst-nodes/
 //
 
 

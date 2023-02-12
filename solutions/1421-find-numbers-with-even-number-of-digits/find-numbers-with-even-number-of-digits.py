@@ -1,4 +1,5 @@
 # Given an array nums of integers, return how many of them contain an even number of digits.
+#
 #  
 # Example 1:
 #
@@ -28,7 +29,7 @@
 #
 #
 # 	1 <= nums.length <= 500
-# 	1 <= nums[i] <= 10^5
+# 	1 <= nums[i] <= 105
 #
 #
 

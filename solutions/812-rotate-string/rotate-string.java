@@ -1,21 +1,25 @@
-// We are given two strings, A and B.
+// Given two strings s and goal, return true if and only if s can become goal after some number of shifts on s.
 //
-// A shift on A consists of taking string A and moving the leftmost character to the rightmost position. For example, if A = 'abcde', then it will be 'bcdea' after one shift on A. Return True if and only if A can become B after some number of shifts on A.
+// A shift on s consists of moving the leftmost character of s to the rightmost position.
 //
 //
+// 	For example, if s = "abcde", then it will be "bcdea" after one shift.
+//
+//
+//  
 // Example 1:
-// Input: A = 'abcde', B = 'cdeab'
+// Input: s = "abcde", goal = "cdeab"
 // Output: true
-//
 // Example 2:
-// Input: A = 'abcde', B = 'abced'
+// Input: s = "abcde", goal = "abced"
 // Output: false
 //
+//  
+// Constraints:
 //
-// Note:
 //
-//
-// 	A and B will have length at most 100.
+// 	1 <= s.length, goal.length <= 100
+// 	s and goal consist of lowercase English letters.
 //
 //
 

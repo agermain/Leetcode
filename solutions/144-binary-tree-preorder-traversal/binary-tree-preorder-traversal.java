@@ -22,20 +22,6 @@
 // Output: [1]
 //
 //
-// Example 4:
-//
-//
-// Input: root = [1,2]
-// Output: [1,2]
-//
-//
-// Example 5:
-//
-//
-// Input: root = [1,null,2]
-// Output: [1,2]
-//
-//
 //  
 // Constraints:
 //
@@ -45,12 +31,7 @@
 //
 //
 //  
-//
-// Follow up:
-//
-// Recursive solution is trivial, could you do it iteratively?
-//
-//  
+// Follow up: Recursive solution is trivial, could you do it iteratively?
 //
 
 

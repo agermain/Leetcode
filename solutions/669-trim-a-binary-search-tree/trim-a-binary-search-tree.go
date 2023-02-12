@@ -17,32 +17,11 @@
 // Output: [3,2,null,1]
 //
 //
-// Example 3:
-//
-//
-// Input: root = [1], low = 1, high = 2
-// Output: [1]
-//
-//
-// Example 4:
-//
-//
-// Input: root = [1,null,2], low = 1, high = 3
-// Output: [1,null,2]
-//
-//
-// Example 5:
-//
-//
-// Input: root = [1,null,2], low = 2, high = 4
-// Output: [2]
-//
-//
 //  
 // Constraints:
 //
 //
-// 	The number of nodes in the tree in the range [1, 104].
+// 	The number of nodes in the tree is in the range [1, 104].
 // 	0 <= Node.val <= 104
 // 	The value of each node in the tree is unique.
 // 	root is guaranteed to be a valid binary search tree.

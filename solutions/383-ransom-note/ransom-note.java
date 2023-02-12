@@ -1,6 +1,6 @@
-// Given an arbitrary ransom note string and another string containing letters from all the magazines, write a function that will return true if the ransom note can be constructed from the magazines ; otherwise, it will return false.
+// Given two strings ransomNote and magazine, return true if ransomNote can be constructed by using the letters from magazine and false otherwise.
 //
-// Each letter in the magazine string can only be used once in your ransom note.
+// Each letter in magazine can only be used once in ransomNote.
 //
 //  
 // Example 1:
@@ -17,7 +17,8 @@
 // Constraints:
 //
 //
-// 	You may assume that both strings contain only lowercase letters.
+// 	1 <= ransomNote.length, magazine.length <= 105
+// 	ransomNote and magazine consist of lowercase English letters.
 //
 //
 

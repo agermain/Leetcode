@@ -23,20 +23,6 @@
 // Output: false
 // Explanation: The binary representation of 11 is: 1011.
 //
-// Example 4:
-//
-//
-// Input: n = 10
-// Output: true
-// Explanation: The binary representation of 10 is: 1010.
-//
-// Example 5:
-//
-//
-// Input: n = 3
-// Output: false
-//
-//
 //  
 // Constraints:
 //
